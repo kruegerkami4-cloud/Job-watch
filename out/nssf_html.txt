@@ -1,0 +1,198 @@
+200 text/html; charset=utf-8 5608 https://jobs.nssf.org/jobs?keywords=&place=
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Please click to confirm you are not a robot...</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+		body {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			min-height: 100vh;
+			margin: 0;
+			padding: 20px;
+			box-sizing: border-box;
+			font-family: Arial, Helvetica, sans-serif;
+			background: #f5f5f5;
+		}
+		.hcheck-box {
+			display: flex;
+			align-items: center;
+			gap: clamp(12px, 3vw, 16px);
+			border: 2px solid #1a73e8;
+			border-radius: 10px;
+			background: #fff;
+			padding: clamp(16px, 4vw, 22px) clamp(18px, 5vw, 26px);
+			box-shadow: 0 0 0 4px rgba(26, 115, 232, 0.15), 0 1px 2px rgba(0, 0, 0, 0.1);
+			animation: hcheck-pulse 2s ease-in-out infinite;
+			max-width: 100%;
+			cursor: pointer;
+			transition: border-color 0.25s ease, background 0.25s ease, box-shadow 0.25s ease;
+		}
+		.hcheck-box.is-verifying,
+		.hcheck-box.is-verified {
+			animation: none;
+			cursor: default;
+			box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+		}
+		.hcheck-box.is-verified {
+			border-color: #1f6f3f;
+			background: #f2f9f4;
+		}
+		@keyframes hcheck-pulse {
+			0%, 100% { box-shadow: 0 0 0 4px rgba(26, 115, 232, 0.15), 0 1px 2px rgba(0, 0, 0, 0.1); }
+			50% { box-shadow: 0 0 0 9px rgba(26, 115, 232, 0.25), 0 1px 2px rgba(0, 0, 0, 0.1); }
+		}
+		.hcheck-box .hcheck-icon {
+			flex-shrink: 0;
+			display: flex;
+			color: #1a73e8;
+		}
+		.hcheck-box .hcheck-icon svg {
+			width: clamp(24px, 6vw, 30px);
+			height: clamp(24px, 6vw, 30px);
+		}
+		.hcheck-box input[type="checkbox"] {
+			flex-shrink: 0;
+			width: clamp(28px, 7vw, 34px);
+			height: clamp(28px, 7vw, 34px);
+			accent-color: #1a73e8;
+			cursor: pointer;
+		}
+		.hcheck-status {
+			display: flex;
+			align-items: center;
+			gap: clamp(8px, 2vw, 10px);
+		}
+		.hcheck-box label {
+			font-size: clamp(15px, 4vw, 19px);
+			line-height: 1.35;
+			color: #333;
+			cursor: pointer;
+		}
+		.hcheck-spinner {
+			display: none;
+			flex-shrink: 0;
+			width: 16px;
+			height: 16px;
+			border-radius: 50%;
+			border: 2px solid #c7cbd1;
+			border-top-color: #1a73e8;
+			animation: hcheck-spin 0.7s linear infinite;
+		}
+		.hcheck-box.is-verifying .hcheck-spinner {
+			display: inline-block;
+		}
+		@keyframes hcheck-spin {
+			to { transform: rotate(360deg); }
+		}
+		.hcheck-check {
+			display: none;
+			color: #1f6f3f;
+			font-weight: 700;
+			font-size: clamp(15px, 4vw, 18px);
+		}
+		.hcheck-box.is-verified .hcheck-check {
+			display: inline;
+		}
+		.hcheck-box.is-verified input[type="checkbox"] {
+			display: none;
+		}
+		#hcheckCaption {
+			font-size: clamp(12px, 3vw, 14px);
+			color: #8a8f96;
+			margin-top: 10px;
+			text-align: center;
+			min-height: 1.4em;
+		}
+		#hcheckMsg {
+			display: none;
+			font-size: clamp(13px, 3.2vw, 15px);
+			color: #b00020;
+			margin-top: 10px;
+			text-align: center;
+		}
+		@media (prefers-reduced-motion: reduce) {
+			.hcheck-box { animation: none; }
+			.hcheck-spinner { animation: none; }
+		}
+	</style>
+</head>
+<body>
+	<noscript>Please enable JavaScript to continue.</noscript>
+	<div>
+		<div class="hcheck-box" id="hcheckContainer">
+			<span class="hcheck-icon" aria-hidden="true">
+				<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+					<path d="M12 2 L20 5 V11 C20 16 16.5 20 12 22 C7.5 20 4 16 4 11 V5 Z" />
+					<path d="M8.5 12 L11 14.5 L15.5 9.5" />
+				</svg>
+			</span>
+			<input type="checkbox" id="hcheckCheckbox">
+			<div class="hcheck-status">
+				<span class="hcheck-spinner" aria-hidden="true"></span>
+				<span class="hcheck-check" aria-hidden="true">&#x2713;</span>
+				<label for="hcheckCheckbox" id="hcheckLabel">I'm not a robot</label>
+			</div>
+		</div>
+		<p id="hcheckCaption">Please click to confirm.</p>
+		<p id="hcheckMsg">Please enable cookies in your browser, then try again.</p>
+	</div>
+	<script>
+		var hcheckMinDwellMs = 2000;
+		var hcheckPageLoadTime = Date.now();
+
+		function hcheckActivate() {
+			var box = document.getElementById("hcheckCheckbox");
+			var container = document.getElementById("hcheckContainer");
+			var elapsed = Date.now() - hcheckPageLoadTime;
+			var remaining = hcheckMinDwellMs - elapsed;
+
+			if (box.disabled) {
+				return;
+			}
+
+			box.checked = true;
+			box.disabled = true;
+			container.classList.add("is-verifying");
+			document.getElementById("hcheckCaption").style.visibility = "hidden";
+
+			if (remaining > 0) {
+				setTimeout(hcheckSubmit, remaining);
+			} else {
+				hcheckSubmit();
+			}
+		}
+
+		function hcheckSubmit() {
+			var container = document.getElementById("hcheckContainer");
+			var box = document.getElementById("hcheckCheckbox");
+			var humanCheckToken = "v217911205750E434C3C67A72CB239AB791B05C504A6189F107CB4F3FA4B0D95AB9F038DE4F2";
+
+			document.cookie = "hcheck=" + humanCheckToken + "; path=/; max-age=2592000; SameSite=Lax; Secure";
+
+			if (document.cookie.indexOf("hcheck=" + humanCheckToken) !== -1) {
+				container.classList.remove("is-verifying");
+				container.classList.add("is-verified");
+				window.location.href = window.location.href;
+			} else {
+				container.classList.remove("is-verifying");
+				box.checked = false;
+				box.disabled = false;
+				document.getElementById("hcheckCaption").style.visibility = "visible";
+				document.getElementById("hcheckMsg").style.display = "block";
+			}
+		}
+
+		document.getElementById("hcheckCheckbox").addEventListener("change", hcheckActivate);
+
+		document.getElementById("hcheckContainer").addEventListener("click", function (e) {
+			if (e.target.id !== "hcheckCheckbox") {
+				hcheckActivate();
+			}
+		});
+	</script>
+</body>
+</html>

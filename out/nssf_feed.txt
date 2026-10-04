@@ -1,0 +1,669 @@
+ERR HTTP Error 404: File Not Found
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+			
+			<script type="text/javascript">
+				WebFontConfig = {
+					google: {
+						families: [
+							'Source+Sans+Pro:400,700,400italic,700italic:latin',
+							'Droid Sans:400,700,',
+							'Lato:400,700'
+						]
+					}
+				};
+
+				(function() {
+					var wf = document.createElement('script');
+					wf.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+					wf.type = 'text/javascript';
+					wf.async = 'true';
+
+					var s = document.getElementsByTagName('script')[0];
+					s.parentNode.insertBefore(wf, s);
+				})();
+			</script>
+
+			
+				<title>Firearms Industry Jobs | Current Job Openings in the Firearms Industry | NSSF</title>
+			
+				<link rel="canonical" href="https://jobs.nssf.org/help/error/404.cfm" />
+			
+				<meta property="og:title" content="Firearms Industry Jobs | Current Job Openings in the Firearms Industry | NSSF">
+				<meta property="og:type" content="website">
+				<meta property="og:site_name" content="Firearms Industry Jobs">
+				
+					<meta property="og:url" content="https://jobs.nssf.org/help/error/404.cfm">
+				
+					<meta property="og:description" content="National Shooting Sports Foundation (NSSF) - Find your next career at Firearms Industry Jobs. Check back frequently as new jobs are posted every day.">
+				
+					<meta property="og:image" content="https://jobs.nssf.org/nsutilities/showLogo.cfm?id=813878&orgType=client&logoType=primary">
+				
+
+			
+			<meta http-equiv="content-language" content="EN">
+
+			
+				<meta name="description" content="National Shooting Sports Foundation (NSSF) - Find your next career at Firearms Industry Jobs. Check back frequently as new jobs are posted every day.">
+			
+				<meta name="keywords" content="jobs, careers, resumes, work in, industry, openings">
+			<meta name="google-site-verification" content="QsPw5vWHybarUUOFe_4uLZyqs0JZ2bR-I1je7Ogziqc" /> 
+<style type="text/css">
+
+.bti-small-print {
+	font-size : 8pt;
+}
+.bti-pagetitle {
+	font-size : 12pt;
+	font-weight : bold;
+	color : #003366;
+}
+.bti-attention {
+	color : #003366; 
+}
+.bti-highlight {
+	background-color: #FFFF00;
+}	
+.bti-tips { 
+	color : #003366;
+	font-family : Arial; 
+	font-size : 8pt; 
+}
+.bti-titlebar { 
+	background-color : #000; 
+	color : #FFFFFF;; 
+	font-family : Arial; 
+	font-size : 10pt; 
+	border : None;
+}
+.bti-titlebar a:link {
+	color : #CCFFCC; 
+	font-family : Arial;
+	font-size : 10pt; 
+}
+.bti-titlebar a:visited {
+	color : #CCFFCC; 
+	font-family : Arial;
+	font-size : 10pt; 
+}
+.bti-titlebar a:hover {
+	color : #CCFFCC; 
+	font-family : Arial;
+	font-size : 10pt; 
+}
+.bti-data-form { 
+	background-color : #F0F0F0; 
+	color : #000000;
+	font-family : Arial;
+	font-size : 10pt; 
+	border : None;
+}
+.row0 {
+	background-color : #F0F0F0;
+}
+.row1 {
+	background-color : #FFFFFF;
+}
+.bti-textarea {
+	font-family : monospace;
+}
+
+.bti-future0 { }
+.bti-future1 { }
+.bti-future2 { }
+.bti-future3 { }
+.bti-future4 { }
+.bti-future5 { }
+.bti-future6 { }
+.bti-future7 { }
+.bti-future8 { }
+.bti-future9 { }
+
+</style> 
+	<style type="text/css">
+
+		
+		
+			.bti-titlebar {
+				background-color: #3d506c !important;
+			}
+		
+
+		.naylor-primary-color, 
+		.naylor-primary-color .fa {
+			background-color:#3d506c!important;
+			color:#FFFFFF!important;
+		}
+
+		
+		.naylor-primary-color-bb-1 {
+			border-bottom: 1px solid #3d506c!important;
+		}
+
+		
+		.naylor-st-colors li a.naylor-primary-color-hover:hover {
+			background-color: #3d506c!important;
+			color: #FFFFFF!important;
+		}
+		
+		.naylor-st-colors li a.naylor-primary-color-hover:hover .fa {
+			color: #FFFFFF!important;
+		}
+
+		.naylor-primary-color-inverted {
+			background-color:#FFFFFF!important;
+			color:#3d506c!important;
+		}
+
+		
+		.naylor-primary-color-only, 
+		.naylor-primary-color-only-hover:hover {
+			color:#3d506c!important;
+		}
+		
+		.naylor-primary-dark-color-only {
+			color:#778591!important;
+		}
+		
+		.naylor-primary-light-color-only {
+			color:#d7d7d7!important;
+		}
+
+		button.naylor-primary-color {
+			border-color: #555555!important;
+		}
+
+		button.naylor-primary-color:hover {
+			color: #FFFFFF!important;
+			background-color: #555555!important;
+			border-color: #3d506c!important;
+		}
+	
+
+		.naylor-secondary-color, 
+		.naylor-secondary-color .fa {
+			background-color:#555555!important;
+			color:#FFFFFF!important;
+		}
+
+		
+		.naylor-secondary-color-bb-1 {
+			border-bottom: 1px solid #555555!important;
+		}
+
+		
+		.naylor-st-colors li a.naylor-secondary-color-hover:hover {
+			background-color: #555555!important;
+			color: #FFFFFF!important;
+		}
+		
+		.naylor-st-colors li a.naylor-secondary-color-hover:hover .fa {
+			color: #FFFFFF!important;
+		}
+
+		.naylor-secondary-color-inverted {
+			background-color:#FFFFFF!important;
+			color:#555555!important;
+		}
+
+		
+		.naylor-secondary-color-only, 
+		.naylor-secondary-color-only-hover:hover {
+			color:#555555!important;
+		}
+		
+		.naylor-secondary-dark-color-only {
+			color:#670000!important;
+		}
+		
+		.naylor-secondary-light-color-only {
+			color:#9A0000!important;
+		}
+
+		button.naylor-secondary-color {
+			border-color: #3d506c!important;
+		}
+
+		button.naylor-secondary-color:hover {
+			color: #FFFFFF!important;
+			background-color: #3d506c!important;
+			border-color: #555555!important;
+		}
+	
+
+		.naylor-tertiary-color, 
+		.naylor-tertiary-color .fa {
+			background-color:#CBBEB5!important;
+			color:#000000!important;
+		}
+
+		
+		.naylor-tertiary-color-bb-1 {
+			border-bottom: 1px solid #CBBEB5!important;
+		}
+
+		
+		.naylor-st-colors li a.naylor-tertiary-color-hover:hover {
+			background-color: #CBBEB5!important;
+			color: #000000!important;
+		}
+		
+		.naylor-st-colors li a.naylor-tertiary-color-hover:hover .fa {
+			color: #000000!important;
+		}
+
+		.naylor-tertiary-color-inverted {
+			background-color:#000000!important;
+			color:#CBBEB5!important;
+		}
+
+		
+		.naylor-tertiary-color-only, 
+		.naylor-tertiary-color-only-hover:hover {
+			color:#CBBEB5!important;
+		}
+		
+		.naylor-tertiary-dark-color-only {
+			color:#C0B1A6!important;
+		}
+		
+		.naylor-tertiary-light-color-only {
+			color:#D6CBC4!important;
+		}
+
+		button.naylor-tertiary-color {
+			border-color: #555555!important;
+		}
+
+		button.naylor-tertiary-color:hover {
+			color: #FFFFFF!important;
+			background-color: #555555!important;
+			border-color: #CBBEB5!important;
+		}
+	
+	</style>
+	
+	
+			<link href='/extmin/1137/website/standard/template4/assets/css/ui-landing-standard-4.scss?vars=eyJicmVha3hsIjoiMTIwMHB4IiwiZGFuZ2VyIjoiI2RjMzU0NSIsInN1Y2Nlc3MiOiIjMDY3NjQ3IiwiYnJlYWttZCI6Ijc2OHB4IiwibGlnaHQiOiIjZDdkN2Q3Iiwic2Vjb25kYXJ5IjoiIzU1NTU1NSIsImRhcmsiOiIjNzc4NTkxIiwiYnJlYWtsZyI6Ijk5MnB4IiwicHJpbWFyeSI6IiMzZDUwNmMiLCJicmVha3NtIjoiNTc2cHgiLCJpbmZvIjoiIzBkY2FmMCIsIndhcm5pbmciOiIjREM2ODAzIiwiQ29udGVudFdpZHRoIjoiMTEwMHB4IiwiYnJlYWt4eGwiOiIxNDAwcHgiLCJ0ZW1wbGF0ZWlkIjoiNCJ9' rel='stylesheet' type='text/css'/>
+		
+	<script id="naylor-privacy-script"
+		data-org-name="Firearms Industry Jobs"
+		data-mode="passive"
+		
+		data-policy-url="/legal/cookies/"
+		type="text/javascript"
+		src="https://cdn.naylor.com/end-user-privacy/index.js">
+	</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NK0YH7CM9"></script>
+					
+
+				<script type="text/javascript">
+					var _gaq = _gaq || [];
+					var _btiGAPrefix = [];
+					var _btiUGAEventLabel = "NSSF (813878)";
+
+					
+						window.dataLayer = window.dataLayer || [];
+						
+						function gtag(){
+							dataLayer.push(arguments);
+						}
+
+						// Default to no-op.
+						var _ga4calls = function() {}
+
+						if(window.naylorPrivacy.shouldLoad('Performance')) {
+							
+
+							var linkerDomains = "";
+							
+								// gtag('set', 'linker', {'domains': ['boxwoodtech.com','naylornetwork.com','jobcontrolcenter.com','directjobs.com']});
+								linkerDomains = ['boxwoodtech.com','naylornetwork.com','jobcontrolcenter.com','directjobs.com'];
+							
+
+							linkerDomains.push('secure.boxwoodtech.com');
+							linkerDomains.push('jobs.nssf.org');
+
+							gtag('js', new Date());
+
+							
+							var ga4OptionsInternal = {
+								orgID: "813878",
+								nickname: "NSSF",
+								networkID: "813878",
+								cookie_domain: "nssf.org",
+								'linker': {
+									'domains': linkerDomains
+								}
+							};
+
+							var ga4OptionsExternal = {
+								cookie_domain: "nssf.org",
+								'linker': {
+									'domains': linkerDomains
+								}
+							};
+							
+							
+							
+								gtag('config', 'G-4NK0YH7CM9', ga4OptionsInternal);
+							
+									gtag('config', 'G-3800VDJ93V', ga4OptionsExternal);
+								
+
+							var _ga4calls = function(event, options) {
+								var eventKey = event.toLowerCase().replace(/[^a-z0-9_]/g, "_").replace(/_{2,}/g, "_").replace(/(_$|^_)/g, "");
+								gtag('event', eventKey, options);
+							};
+						}
+					
+						// Univeral Analytics Script Load
+						if(window.naylorPrivacy.shouldLoad('Performance')) {
+							(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+								(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+								m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+							})(window,document,'script','//www.google-analytics.com/analytics.js','_btiUGA');
+						} else {
+							_btiUGA = function() {}; // No-op block
+						}
+					
+
+						_btiUGA('create', 'UA-997933-3', 'nssf.org', {'name':'b','allowLinker':true});
+
+						
+							_btiUGA('b.require', 'linker');
+							_btiUGA('b.linker:autoLink', ['boxwoodtech.com','naylornetwork.com','jobcontrolcenter.com','directjobs.com']);
+						
+
+						// set anonymizer
+						_btiUGA('b.set', 'anonymizeIp', true);
+						
+							_btiUGA('b.send', 'pageview');
+						
+						
+					// If there's no classic ga object, create a placeholder to prevent script errors.
+					// This is primarily for clients using GTM to inject code into our page.
+					if(typeof ga == "undefined") {
+						ga = function() {
+							console.warn("ga() placeholder function called.");
+						};
+					}
+
+					
+				</script><link href="/extmin/1.9.3/lib/js/jquery/css/base-jquery-ui-theme-1.9.3.css" rel="stylesheet" type="text/css" media="screen,print"> <link href="/extmin/1010/hr/jobs/ext/cf-validate.css" rel="stylesheet" type="text/css" media="screen,print"> <link href="/extmin/1016/lib/css/ui-main/ui-main-signin.css" rel="stylesheet" type="text/css" media="screen,print"> <link href="/lib/css/fontawesome/css/all.min.css" rel="stylesheet" type="text/css" media="screen,print"> <link href="/extmin/1001/lib/css/ui-landing/custom-fonts.css" rel="stylesheet" type="text/css" media="screen,print"> <link href="/extmin/4.66/website/master.css" rel="stylesheet" type="text/css" media="screen,print"> <script type="text/javascript" src="/extmin/2.0.43/lib/js/main-2.0.43-min.js?tracker=null"></script> <script type="text/javascript" src="/lib/js/jquery/plugins/jquery.validate.min.js"></script> <script type="text/javascript" src="/extmin/1012/lib/js/form-framework.js"></script> <script type="text/javascript" src="/extmin/1005/lib/js/bti-form.js"></script> <script type="text/javascript" src="/extmin/1015/lib/js/bti-form-validation.js"></script> <script type="text/javascript" src="/extmin/1016/lib/js/ssi-form.js"></script> <script type="text/javascript" src="/extmin/1000/lib/js/jquery/plugins/jquery.placeholder.min.js"></script> <script type="text/javascript" src="/extmin/1000/lib/js/profileCapture.js"></script> <script type="text/javascript" src="/extmin/1002/lib/js/tls-1.2-check.js"></script> <script type="text/javascript" src="/extmin/1007/lib/css/bootstrap/dist/js/bootstrap.bundle.min.js"></script> 
+				<!-- Start Google Tag Manager gtm.js -->
+				<script>
+					if(window.naylorPrivacy.shouldLoad('Performance')) {
+						window.dataLayer = window.dataLayer || [];
+						dataLayer.push({"gtm.blacklist": ["html"]});
+						(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+						new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+						j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+						'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+						})(window,document,'script','dataLayer','GTM-PLC4XQ8');
+					}
+				</script>
+				<!-- End Google Tag Manager gtm.js -->
+			
+
+			
+			<script type="text/javascript">
+				if(window.naylorPrivacy.shouldLoad('Retargeting')) {
+					(function() {
+						// Global pixel tracking.
+						var script = document.createElement('script');
+						script.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://tag.simpli.fi/sifitag/fb77bbc0-68d4-0136-ef7d-06659b33d47c';
+						script.type = 'text/javascript';
+						script.referrerPolicy = 'no-referrer-when-downgrade';
+						script.async = 'true';
+						
+
+						var scriptEl = document.getElementsByTagName('script')[0];
+						scriptEl.parentNode.insertBefore(script, scriptEl);
+					})();
+				}
+			</script>
+
+			
+			<script async src="https://js.adsrvr.org/up_loader.3.0.0.js"></script>
+			<script>
+				window.ttdConversionEventsLayer = window.ttdConversionEventsLayer || [];
+				function ttdConversionEvents() {
+					window.ttdConversionEventsLayer.push(arguments);
+				}
+				
+				ttdConversionEvents("init", {
+					advertiserId: "eac6kka",
+					pixelIds: ["tc2x4k9"]
+				});
+
+				ttdConversionEvents("event", {});
+			</script>
+
+			
+			</head>
+<body>
+				<!-- Google Tag Manager (noscript) -->
+				<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PLC4XQ8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+				<!-- End Google Tag Manager (noscript) -->
+			<div id="btir-body-container">
+
+    <nav class="bg-primary">
+        <div class="container-fluid d-flex flex-wrap">
+            <ul class="nav me-auto">
+                <li class="nav-item">
+                        
+                        
+    <div id="bti-stand-login-container" class="d-flex flex-row">
+
+        
+        
+    </div>
+
+                </li>
+            </ul>
+            
+                <ul class="nav topNav">
+                    <li class="nav-item ">
+                        <a href="/jobseekers/"><i class="i fa fa-briefcase fa-lg"></i> Job Seekers</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a href="/employers/"><i class="i fa fa-building fa-lg"></i> Employers</a>
+                    </li>
+                </ul>
+            
+        </div>
+    </nav>
+
+    <nav class="bti-navbar bti-navbar-expand-md" id="mainNav">
+        <div class="container-fluid ">
+            
+    <a href="https://www.nssf.org/" class="bti-navbar-brand">
+        <img class='img-fluid' itemprop='URL' src="/pics/logos-webp/clients/primary/813878.webp" id="bti-primary-813878" alt="National Shooting Sports Foundation Logo">
+    </a>
+
+
+            <button class="bti-navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="fa fa-ellipsis-v fa-2x text-primary"></span>
+            </button>
+            
+            <div class="collapse bti-navbar-collapse justify-content-end" id="navbarSupportedContent">
+                
+                
+
+<ul class="bti-navbar-nav">
+    
+							<li class="nav-item">
+								<a class="nav-link bti-nav-js-home" aria-current="page" href="/jobseekers/">Home</a>
+							</li>
+						
+							<li class="nav-item">
+								<a class="nav-link bti-nav-js-jobs" aria-current="page" href="/jobs/">Jobs</a>
+							</li>
+						
+							<li class="nav-item">
+								<a class="nav-link bti-nav-js-resume" aria-current="page" href="/login/">Your Profile</a>
+							</li>
+						
+
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle " data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Resources</a>
+								<ul class="dropdown-menu">
+									
+										<li><a class="dropdown-item" href="/jobseekers/resources/">Resources Home</a></li>
+									
+										<li><a class="dropdown-item" href="/jobseekers/resources/blueskyLMS/">Career Learning Center</a></li>
+									
+										<li><a class="dropdown-item" href="/jobseekers/resources/store/employment_verification.cfm">Reference Checking</a></li>
+									
+										<li><a class="dropdown-item" href="/jobseekers/resources/store/resume_service_info.cfm">Resume Writing Services</a></li>
+									
+										<li><a class="dropdown-item" href="/jobseekers/resources/coaching/">Coaching</a></li>
+									
+								</ul>
+							</li>
+						
+</ul>
+            </div>
+        </div>
+    </nav>
+
+    <section class="content-main">
+        <div class="container-fluid">
+            <div class="content-container">
+                
+			<div id="btir-btidiv-container" data-btir-mode="1">
+		
+
+	
+	<div id="bti">
+		<div id="bti-page-title-color" class="bti-titlebar"></div>
+
+		
+		
+
+		<!-- Help Modal -->
+		<div class="modal fade" id="helpModal" tabindex="-1" aria-labelledby="helpModalLabel" aria-hidden="true">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<div class="h5 modal-title" id="helpModalLabel">Help</div>
+						<button type="button" class="bti-btn-close" data-bs-dismiss="modal" aria-label="Close" tabindex="-1"></button>
+					</div>
+					<div class="modal-body" id="helpModalContent">
+						<!-- Dynamic content will be loaded here -->
+						<i class="fa-solid fa-spinner fa-spin-pulse"></i> Loading...
+					</div>
+				</div>
+			</div>
+		</div>
+
+	<div align="left">
+		<span style="font-family:Arial, Helvetica, sans-serif;font-size:12px;color:black;">
+		<span style="font-size:18px;color:red;font-weight:bold;">Sorry, we couldn't find the page you were looking for.</span>
+		<br><br>
+		If you've followed a link from another site or have accessed this page from a bookmark, it may be outdated or misspelled.  
+		
+            If you've reached this page from within Firearms Industry Jobs, please <a href="mailto:employersupport@naylor.com" style="color:blue;text-decoration:underline;">let us know</a> so we can correct our mistake.
+		
+        <br><br><br>
+		<span style="font-weight:bold;">Here are some things that you might find helpful:</span>
+		<br><br>
+		&nbsp;&nbsp;<img src="/pics/gui/redBullet.gif" alt="red Bullet">&nbsp;&nbsp;<a href="javascript:history.back();" style="color:blue;text-decoration:underline;">Go back</a> to the previous page<br><br>
+		&nbsp;&nbsp;<img src="/pics/gui/redBullet.gif" alt="red Bullet">&nbsp;&nbsp;<a href="/jobs" style="color:blue;text-decoration:underline;">Find a job</a>
+		or <a href="/hr/jobs" rel="nofollow" style="color:blue;text-decoration:underline;">post a job</a>
+		<br><br>
+        
+		&nbsp;&nbsp;<img src="/pics/gui/redBullet.gif" alt="red Bullet">&nbsp;&nbsp;<a href="http://jobs.nssf.org" style="color:blue;text-decoration:underline;">Try again</a> from the Firearms Industry Jobs home page<br><br>
+		
+        </span>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+	</div>
+	
+	
+	</div>
+	
+	</div>
+	
+	<div id="message-dialog" style="display:none;">
+		<h2 id="message-title">Error</h2>
+		<p id="message-text"></p>
+		<p id="message-buttons">
+			<button id="message-close">Close</button>
+		</p>
+		<div id="message-session-timer"></div>
+		<p id="message-session-buttons">
+			<button id="message-session-close">Continue</button>
+		</p>
+	</div>
+
+	
+	
+
+	
+	
+	<noscript>
+		<div style="z-index: 9000; height: 20px; padding:5px; background: #F00; color: #FFF; text-align: center; position: fixed; top: 0; left:0; right:0;">
+			You do not have JavaScript Enabled on this browser.
+			Please <a href="https://www.enable-javascript.com/" target="_blank" style="color:white; text-decoration:underline;">enable it</a>
+			in order to use the full functionality of our website.
+		</div>
+	</noscript>
+            </div>
+        </div>
+    </section>
+
+    <footer class="border-top border-secondary bg-light pt-3">
+        <div class="container-fluid">
+            <div class="row" style="clear:both;">
+                <div class="col-md-6 col-sm-6 col-xs-6" style="">
+                    <ul class="footer-links">
+
+
+                        
+                            <li><a href="/help/system/?audienceCode=PER&amp;display=none" data-bs-toggle="modal" data-bs-target="#helpModal" id="loadFooterHelpModal"><span class="fa fa-question-circle me-1"></span>Help</a></li>
+                        
+                            <li><a href="/jobseekers/terms-and-conditions/">Terms &amp; Conditions</a></li>
+                            
+                            <li><a href="/privacy.cfm">Privacy Policy</a></li>
+                        
+                    </ul>
+                    
+	<ul class="list-inline mb-3 ms-3" id="footer-social-media-links">
+		
+	</ul>
+
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6 d-flex align-items-center justify-content-end">
+                    
+                        <img src="/images/naylor-logo-2025.png" width="200" alt="Naylor Association Solutions Logo">
+                    
+                </div>
+            </div>
+            <hr>
+            
+            <div class="text-center">&copy; Copyright 2026 National Shooting Sports Foundation.</div>
+            
+        </div>
+    </footer>
+   
+    <script src="/website/standard/template1/assets/js/standard-global.js"></script>
+
+</div></body>
+</html>
+
+
+	<script>
+		// Resolve name collision between jQuery UI and Bootstrap
+		$.widget.bridge('uitooltip', $.ui.tooltip);
+	</script>

@@ -1,0 +1,278 @@
+200 text/html; charset=utf-8 16815 https://www.governmentjobs.com/jobs?page=1&location=54016&distance=25&sort=date&isDescendingSort=True
+
+
+
+
+    <span id="jobs-found" aria-live="polite" class="sr-only">
+        186 jobs found. Page 1. Showing items
+        1 - 10
+    </span>
+    <div class="row-fluid search-results-header-container">
+        <div class="span6 search-results-header"><h2>Search Results (186)</h2></div>
+        <div class="span6 search-results-sort-container">
+            
+
+
+
+<div class="sort-container chosen-common-container">
+    <span class="sort-by-label">Sort By :  </span>
+    <span class="sr-only" id="sort-by-label-main">Sort By</span>
+    <label class="hide" for="job-sort-dropdown-main">Job Sort</label>
+    <select class="job-search-sort-dropdown" aria-label="sort by" id="job-sort-dropdown-main" tabindex="0" data-bind="chosen: { disable_search: true, labelledby: 'sort-by-label' }">
+
+        <option 
+                value="/jobs?location=54016&amp;distance=25&amp;isTransfer=False&amp;isPromotional=False">
+            Relevance
+        </option>
+
+        <option selected=&quot;selected&quot;
+                value="/jobs?location=54016&amp;distance=25&amp;isDescendingSort=True&amp;sort=date&amp;isTransfer=False&amp;isPromotional=False">
+            Date Posted
+        </option>
+    </select>
+</div>
+        </div>
+    </div>
+    <ul class="unstyled job-listing-container" role="presentation">
+            <li class="job-item" data-job-id="5500540-0" data-job-isfeatured="False" role="presentation">
+                <div class="job-item-container">
+                        <div class="row-fluid label-row">
+                                <span class="label new-job-label">New</span>
+
+                        </div>
+                    <div class="row-fluid job-tile-header">
+                        <h3>
+                            <a aria-label="Project Selection Coordinator - MN Department of Transportation New Job Link will be opened in a new window." class="job-details-link" href="/jobs/5500540-0/project-selection-coordinator-mn-department-of-transportation">Project Selection Coordinator - MN Department of Transportation</a>
+                        </h3>
+                        <!-- ko template: { name: 'Templates/SaveJobs',data: {
+                            viewModel: $data,
+                            jobTitle: 'Project Selection Coordinator - MN Department of Transportation',
+                            jobId: '5500540'
+                        }} -->
+                        <!-- /ko -->
+
+                    </div>
+
+
+                    <div class="primaryInfo job-organization">Minnesota City Jobs</div>
+                    <div class="primaryInfo"><span class="job-location">MN Dept of Transportation</span></div>
+                    <div class="primaryInfo">
+                        FT  | $31.81 - $46.96 Hourly  | Closes in 2 weeks
+                    </div>
+                </div>
+            </li>
+            <li class="job-item" data-job-id="151656-1" data-job-isfeatured="False" role="presentation">
+                <div class="job-item-container">
+                        <div class="row-fluid label-row">
+                                <span class="label new-job-label">New</span>
+
+                        </div>
+                    <div class="row-fluid job-tile-header">
+                        <h3>
+                            <a aria-label="Director of Social Services New Job Link will be opened in a new window." class="job-details-link" href="/jobs/151656-1/director-of-social-services">Director of Social Services</a>
+                        </h3>
+                        <!-- ko template: { name: 'Templates/SaveJobs',data: {
+                            viewModel: $data,
+                            jobTitle: 'Director of Social Services',
+                            jobId: '151656'
+                        }} -->
+                        <!-- /ko -->
+
+                    </div>
+
+
+                    <div class="primaryInfo job-organization">St. Croix County</div>
+                    <div class="primaryInfo"><span class="job-location">New Richmond, WI</span></div>
+                    <div class="primaryInfo">
+                        Full-Time  | See Position Description  | Closes in 1 week
+                    </div>
+                </div>
+            </li>
+            <li class="job-item" data-job-id="5503993-0" data-job-isfeatured="False" role="presentation">
+                <div class="job-item-container">
+                    <div class="row-fluid job-tile-header">
+                        <h3>
+                            <a aria-label="Administrative Assistant Link will be opened in a new window." class="job-details-link" href="/jobs/5503993-0/administrative-assistant">Administrative Assistant</a>
+                        </h3>
+                        <!-- ko template: { name: 'Templates/SaveJobs',data: {
+                            viewModel: $data,
+                            jobTitle: 'Administrative Assistant',
+                            jobId: '5503993'
+                        }} -->
+                        <!-- /ko -->
+
+                    </div>
+
+
+                    <div class="primaryInfo job-organization">Washington County (MN)</div>
+                    <div class="primaryInfo"><span class="job-location">R.H. Stafford Library, MN</span></div>
+                    <div class="primaryInfo">
+                        Full Time  | $27.03 - $36.81 Hourly  | Closes in 1 week
+                    </div>
+                </div>
+            </li>
+            <li class="job-item" data-job-id="5486219-0" data-job-isfeatured="False" role="presentation">
+                <div class="job-item-container">
+                    <div class="row-fluid job-tile-header">
+                        <h3>
+                            <a aria-label="Environmental Health Specialist - Lead Remediation Program Link will be opened in a new window." class="job-details-link" href="/jobs/5486219-0/environmental-health-specialist-lead-remediation-program">Environmental Health Specialist - Lead Remediation Program</a>
+                        </h3>
+                        <!-- ko template: { name: 'Templates/SaveJobs',data: {
+                            viewModel: $data,
+                            jobTitle: 'Environmental Health Specialist - Lead Remediation Program',
+                            jobId: '5486219'
+                        }} -->
+                        <!-- /ko -->
+
+                    </div>
+
+
+                    <div class="primaryInfo job-organization">Ramsey County</div>
+                    <div class="primaryInfo"><span class="job-location">ALL-Multiple Ramsey County Locations, MN</span></div>
+                    <div class="primaryInfo">
+                        Full Time  | $63,502.40 - $95,264.00 Annually  | Closes in 2 weeks
+                    </div>
+                </div>
+            </li>
+            <li class="job-item" data-job-id="5503318-0" data-job-isfeatured="False" role="presentation">
+                <div class="job-item-container">
+                    <div class="row-fluid job-tile-header">
+                        <h3>
+                            <a aria-label="Deputy Executive Director of HRA - South Saint Paul Link will be opened in a new window." class="job-details-link" href="/jobs/5503318-0/deputy-executive-director-of-hra-south-saint-paul">Deputy Executive Director of HRA - South Saint Paul</a>
+                        </h3>
+                        <!-- ko template: { name: 'Templates/SaveJobs',data: {
+                            viewModel: $data,
+                            jobTitle: 'Deputy Executive Director of HRA - South Saint Paul',
+                            jobId: '5503318'
+                        }} -->
+                        <!-- /ko -->
+
+                    </div>
+
+
+                    <div class="primaryInfo job-organization">Minnesota City Jobs</div>
+                    <div class="primaryInfo"><span class="job-location">South Saint Paul</span></div>
+                    <div class="primaryInfo">
+                        FT  | $113,414.00 - $149,229.00 Annually  | Closes in 2 weeks
+                    </div>
+                </div>
+            </li>
+            <li class="job-item" data-job-id="5503819-0" data-job-isfeatured="False" role="presentation">
+                <div class="job-item-container">
+                    <div class="row-fluid job-tile-header">
+                        <h3>
+                            <a aria-label="Construction Administrator - Metropolitan Council Link will be opened in a new window." class="job-details-link" href="/jobs/5503819-0/construction-administrator-metropolitan-council">Construction Administrator - Metropolitan Council</a>
+                        </h3>
+                        <!-- ko template: { name: 'Templates/SaveJobs',data: {
+                            viewModel: $data,
+                            jobTitle: 'Construction Administrator - Metropolitan Council',
+                            jobId: '5503819'
+                        }} -->
+                        <!-- /ko -->
+
+                    </div>
+
+
+                    <div class="primaryInfo job-organization">Minnesota City Jobs</div>
+                    <div class="primaryInfo"><span class="job-location">Metropolitan Council</span></div>
+                    <div class="primaryInfo">
+                        FT  | $81,000.00 - $132,000.00 Annually  | Closes in 1 week
+                    </div>
+                </div>
+            </li>
+            <li class="job-item" data-job-id="5504249-0" data-job-isfeatured="False" role="presentation">
+                <div class="job-item-container">
+                    <div class="row-fluid job-tile-header">
+                        <h3>
+                            <a aria-label="Construction Inspector - Metropolitan Council Link will be opened in a new window." class="job-details-link" href="/jobs/5504249-0/construction-inspector-metropolitan-council">Construction Inspector - Metropolitan Council</a>
+                        </h3>
+                        <!-- ko template: { name: 'Templates/SaveJobs',data: {
+                            viewModel: $data,
+                            jobTitle: 'Construction Inspector - Metropolitan Council',
+                            jobId: '5504249'
+                        }} -->
+                        <!-- /ko -->
+
+                    </div>
+
+
+                    <div class="primaryInfo job-organization">Minnesota City Jobs</div>
+                    <div class="primaryInfo"><span class="job-location">Metropolitan Council</span></div>
+                    <div class="primaryInfo">
+                        FT   | Closes in 1 month
+                    </div>
+                </div>
+            </li>
+            <li class="job-item" data-job-id="5502007-0" data-job-isfeatured="False" role="presentation">
+                <div class="job-item-container">
+                    <div class="row-fluid job-tile-header">
+                        <h3>
+                            <a aria-label="Aerobic/Fitness Instructor Link will be opened in a new window." class="job-details-link" href="/jobs/5502007-0/aerobic-fitness-instructor">Aerobic/Fitness Instructor</a>
+                        </h3>
+                        <!-- ko template: { name: 'Templates/SaveJobs',data: {
+                            viewModel: $data,
+                            jobTitle: 'Aerobic/Fitness Instructor',
+                            jobId: '5502007'
+                        }} -->
+                        <!-- /ko -->
+
+                    </div>
+
+
+                    <div class="primaryInfo job-organization">City of New Brighton (MN)</div>
+                    <div class="primaryInfo"><span class="job-location">Community Center - New Brighton, MN</span></div>
+                    <div class="primaryInfo">
+                        Part-Time  | $25.93 - $52.24 Hourly  | Closes in 4 weeks
+                    </div>
+                </div>
+            </li>
+            <li class="job-item" data-job-id="151581-1" data-job-isfeatured="False" role="presentation">
+                <div class="job-item-container">
+                    <div class="row-fluid job-tile-header">
+                        <h3>
+                            <a aria-label="SENIOR SYSTEMS / CLOUD ENGINEER Link will be opened in a new window." class="job-details-link" href="/jobs/151581-1/senior-systems-cloud-engineer">SENIOR SYSTEMS / CLOUD ENGINEER</a>
+                        </h3>
+                        <!-- ko template: { name: 'Templates/SaveJobs',data: {
+                            viewModel: $data,
+                            jobTitle: 'SENIOR SYSTEMS / CLOUD ENGINEER',
+                            jobId: '151581'
+                        }} -->
+                        <!-- /ko -->
+
+                    </div>
+
+
+                    <div class="primaryInfo job-organization">Office of the Minnesota Attorney General</div>
+                    <div class="primaryInfo"><span class="job-location">Saint Paul, MN</span> - Flexible/Hybrid</div>
+                    <div class="primaryInfo">
+                        Full-Time  | $78,759.00 - $129,894.00 Annually  | Closes in 1 week
+                    </div>
+                </div>
+            </li>
+            <li class="job-item" data-job-id="5502885-0" data-job-isfeatured="False" role="presentation">
+                <div class="job-item-container">
+                    <div class="row-fluid job-tile-header">
+                        <h3>
+                            <a aria-label="Deputy Executive Director of HRA Link will be opened in a new window." class="job-details-link" href="/jobs/5502885-0/deputy-executive-director-of-hra">Deputy Executive Director of HRA</a>
+                        </h3>
+                        <!-- ko template: { name: 'Templates/SaveJobs',data: {
+                            viewModel: $data,
+                            jobTitle: 'Deputy Executive Director of HRA',
+                            jobId: '5502885'
+                        }} -->
+                        <!-- /ko -->
+
+                    </div>
+
+
+                    <div class="primaryInfo job-organization">City of South St. Paul</div>
+                    <div class="primaryInfo"><span class="job-location">South St Paul, MN</span></div>
+                    <div class="primaryInfo">
+                        Full-Time  | $113,414.08 - $149,229.60 Annually  | Closes in 2 weeks
+                    </div>
+                </div>
+            </li>
+    </ul>
+        <div id="job-search-pagination" class="pager-container">
+            <div class="pagination-small pagination"><ul class="pagination"><li class="active"><a aria-disabled="true" aria-label="Go to page 1" class="unclickable-link" href="" tabindex="-1">1</a></li><li><a aria-label="Go to page 2" href="/jobs?page=2&amp;location=54016&amp;distance=25&amp;sort=date&amp;isDescendingSort=True&amp;isTransfer=False&amp;isPromotional=False">2</a></li><li><a aria-label="Go to page 3" href="/jobs?page=3&amp;location=54016&amp;distance=25&amp;sort=date&amp;isDescendingSort=True&amp;isTransfer=False&amp;isPromotional=False">3</a></li><li><a aria-label="Go to page 4" href="/jobs?page=4&amp;location=54016&amp;distance=25&amp;sort=date&amp;isDescendingSort=True&amp;isTransfer=False&amp;isPromotional=False">4</a></li><li><a aria-label="Go to page 5" href="/jobs?page=5&amp;location=54016&amp;distance=25&amp;sort=date&amp;isDescendingSort=True&amp;isTransfer=False&amp;isPromotional=False">5</a></li><li><a aria-label="Go to page 6" href="/jobs?page=6&amp;location=54016&amp;distance=25&amp;sort=date&amp;isDescendingSort=True&amp;isTransfer=False&amp;isPromotional=False">6</a></li><li><a aria-label="Go to page 7" href="/jobs?page=7&amp;location=54016&amp;distance=25&amp;sort=date&amp;isDescendingSort=True&amp;isTransfer=False&amp;isPromotional=False">7</a></li><li><a aria-label="Go to page 8" href="/jobs?page=8&amp;location=54016&amp;distance=25&amp;sort=date&amp;isDescendingSort=True&amp;isTransfer=False&amp;isPromotional=False">8</a></li><li><a aria-label="Go to page 9" href="/jobs?page=9&amp;location=54016&amp;distance=25&amp;sort=date&amp;isDescendingSort=True&amp;isTransfer=False&amp;isPromotional=False">9</a></li><li><a aria-label="Go to page 10" href="/jobs?page=10&amp;location=54016&amp;distance=25&amp;sort=date&amp;isDescendingSort=True&amp;isTransfer=False&amp;isPromotional=False">10</a></li><li class="disabled PagedList-ellipses"><a>&#8230;</a></li><li class="PagedList-skipToNext"><a href="/jobs?page=2&amp;location=54016&amp;distance=25&amp;sort=date&amp;isDescendingSort=True&amp;isTransfer=False&amp;isPromotional=False" rel="next">▻</a></li><li class="PagedList-skipToLast"><a href="/jobs?page=19&amp;location=54016&amp;distance=25&amp;sort=date&amp;isDescendingSort=True&amp;isTransfer=False&amp;isPromotional=False">▻▻</a></li></ul></div>
+        </div>

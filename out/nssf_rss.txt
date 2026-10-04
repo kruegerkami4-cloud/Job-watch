@@ -1,0 +1,642 @@
+200 text/xml;charset=UTF-8 59094 https://jobs.nssf.org/jobs/?display=rss
+
+<?xml version="1.0" encoding="UTF-8" ?>
+				<rss version="2.0">
+					<channel>
+						<title>Firearms Industry Jobs Search Results (Jobs)</title>
+						<link>https://jobs.nssf.org</link>
+						<description>Latest Firearms Industry Jobs Jobs</description>
+						<pubDate>Sun, 04 Oct 2026 09:29:35 Z</pubDate>
+						
+							<item>							
+								
+									<link>https://jobs.nssf.org/jobs/rss/22628271/call-center-sales-manager</link>
+								
+								<title>Call Center Sales Manager | Davidson&#39;s</title>								
+								<guid isPermaLink="true">https://jobs.nssf.org/jobs/rss/22628271/call-center-sales-manager</guid>
+								<description>Prescott, Arizona,  Do you have a keen sense of people and the desire to help drive the strategic and tactical direction of a sales team?&#xa0; If so, we encourage you to join our industry-leading team.&#xa0; Davidson&#8217;s is a 90 years young innovative leader in firearms distribution recognized for its excellence in customer service, product offerings and financial stability.&#xa0;&#xa0; 
+ Position Overview 
+ As an integral member of the Sales Management Team, the  Call Center Sales Manager  will be responsible for directing our Sales Coaches and our teams of Account Executives to meet their goals   by delivering our sales methodology, recognizing selling opportunities and buying clues, and developing and nurturing long-term customer relationships. You will also work alongside our Sales Coaches to mentor and motivate our Account Executives. Additionally, you will help guide the Sales Management Team in developing strategic plans based on metrics, business data, and market trends. We operate in a fast-paced and dynamic environment.&#xa0; 
+ This position is located at our call center in Prescott, Arizona.&#xa0;  
+ This position requires your presence onsite and is not remote. 
+ Sales Manager Responsibilities include 
+ 
+ Mentoring and motivating Account Executives and Sales Coaches towards goal achievement while fostering a culture of growth and teamwork 
+ Leading morning sales meetings with the Account Executives by discussing current sales promotions, effective strategies, market and product awareness, and providing performance feedback 
+ Overseeing the management of our key customer accounts 
+ 
+ The ideal Sales Manager candidate would also possess 
+ 
+ Knowledge of the firearms and the firearms industry including retail firearms sales experience 
+ Broad experience in business-to-business sales environments 
+ Flexible approach with the ability to maintain a professional demeanor at all times 
+ A superior ability to communicate professionally and effectively to all levels of the organization and customers 
+ 
+ Sales Manager Pay and Benefits &#xa0;&#xa0;&#xa0; 
+ Davidsons is a business casual environment that offers a generous benefits compensation package including a starting pay range of $90k to $100k commensurate with your experience in addition to our voluntary benefits which include family Medical, Dental, and Vision coverages as well as supplemental life insurance, flexible spending accounts, short-term/ long-term disability plans, pet insurance, cash benefit plans, and a 401(k) retirement plan with a generous match! 
+ About Davidsons 
+ Founded in 1932, Davidsons has grown into one of the nation&#8217;s top firearms wholesalers. Headquartered in Prescott, Arizona it proudly distributes over 90 brands of firearms and related products to dealers nationwide. 
+ Davidsons is an equal opportunity employer, dedicated to promoting a culturally diverse workforce. All qualified applicants will receive consideration for employment without regards to race, color, religion, gender, or national origin. 
+ All offers of employment are conditional on candidates being at least 21 years of age and able to pass pre-employment drug testing and a criminal background check. 
+ To apply for this position, reply to the ad with your cover letter and resume via email to hr@davidsonsinc.com. 
+ To learn more about career opportunities at Davidsons, click on the CAREERS link on GalleryofGuns.com Sales Manager Position Requirements 
+ 
+ Superior skills in the analysis and interpretation of regional sales and market data 
+ Experience with customer relationship management (CRM) software systems 
+ Five (5) or more years of related business-to-business sales management experience 
+ An advanced proficiency with Microsoft Office 
+ Starting pay range of $90k to $100k commensurate with your experience</description>
+								<pubDate>Fri, 02 Oct 2026 18:06:30 -0400</pubDate>
+							</item>
+						
+							<item>							
+								
+									<link>https://jobs.nssf.org/jobs/rss/22618700/product-design-engineer</link>
+								
+								<title>Product Design Engineer | Beretta USA</title>								
+								<guid isPermaLink="true">https://jobs.nssf.org/jobs/rss/22618700/product-design-engineer</guid>
+								<description>Gallatin, Tennessee,  JOB SUMMARY/OBJECTIVE: 
+ Beretta is seeking a motivated Product Design Engineer to join our team at our Gallatin, TN facility. This role is an excellent opportunity to contribute to the design, development, and transition of firearms from concept to production. 
+ As a Product Design Engineer, you will support the development and improvement of firearms by working on design tasks, failure analysis, testing, and documentation. You will collaborate closely with cross-functional teams to ensure that designs meet safety, performance, and cost objectives. This position offers valuable hands-on experience and growth within a renowned organization committed to quality and innovation. 
+ &#xa0; ESSENTIAL JOB FUNCTIONS: &#xa0;&#xa0; 
+ 
+ Assist with product design and industrialization for firearms, including R&#38;D, design, and improvement. 
+ Support product development programs and ensure cost, quality, and schedule objectives are met. 
+ Develop test plans, conduct product testing, and generate detailed test reports. 
+ Collaborate with Product Marketing to review product specifications and procedures. 
+ Design and evaluate new products and components, generating 2D and 3D CAD drawings. 
+ Identify and implement product improvements in cost, performance, manufacturability, and quality. 
+ Investigate and solve product-related issues and challenges. 
+ Maintain Bills of Materials and Item Data in CAD and MRP systems. 
+ Assist with engineering change notices (ECNs) and collaborate with cross-functional teams. 
+ Conduct tolerance studies and apply Geometric Dimensioning and Tolerancing (ASME Y14.5) to complex assemblies. 
+ Assist with evaluating and introducing new technologies and materials. 
+ Contribute to innovation efforts and support intellectual property management. 
+ 
+ OTHER JOB FUNCTIONS: 
+ 
+ Assist with Industrial Engineers, Manufacturing Engineers, Quality Engineers, Production Personnel, and Sales/Marketing teams to address product-related inquiries and issues. 
+ Assist external vendors with product-related projects, questions, and problems. 
+ Develop and integrate best practices within the group and provide suggestions for overall efficiency improvement. 
+ Perform other duties as assigned. 
+ 
+ WORKING CONDITIONS/PHYSICAL DEMANDS: 
+ Work is performed in a professional group office environment as well as laboratory and test range environments.&#xa0; Requires the ability to physically and safely test, evaluate and maintain various firearms including pistols, rifles and shotguns (semiautomatic, bolt action, pump action, fully automatic) including extensive live fire testing.&#xa0; Requires the ability to lift 50 lbs. 
+ QUALIFICATIONS/ABILITIES: 
+ 
+ Technical understanding of the function of small arms. 
+ Familiarity with Lean Manufacturing, Six Sigma, Root Cause Analysis, and geometric tolerancing (ANSI Y14.5). 
+ Experience in CAD (NX preferred), 2D drafting, and FEM/FEA analysis. 
+ Strong problem-solving and mechanical design skills.</description>
+								<pubDate>Tue, 29 Sep 2026 15:02:34 -0400</pubDate>
+							</item>
+						
+							<item>							
+								
+									<link>https://jobs.nssf.org/jobs/rss/22603852/firearms-service-manager</link>
+								
+								<title>Firearms Service Manager | Beretta USA</title>								
+								<guid isPermaLink="true">https://jobs.nssf.org/jobs/rss/22603852/firearms-service-manager</guid>
+								<description>Gallatin, Tennessee,  JOB SUMMARY/OBJECTIVE: 
+ The Firearms Service Manager leads and directs all Gunsmithing and Repair Service operations to deliver timely, accurate, and high-quality firearms service. This role ensures exceptional customer experiences while aligning service operations with Beretta&#8217;s business objectives, quality standards, and brand reputation. The Manager serves as a key advocate for Beretta customers and stakeholders, driving continuous improvement, operational efficiency, and service excellence. 
+ ESSENTIAL JOB FUNCTIONS: &#xa0; 
+ 
+ Lead and oversee all Gunsmithing and firearms service operations, ensuring compliance with corporate, legal, and quality requirements 
+ Monitor service performance metrics and proactively implement corrective actions to meet or exceed service objectives 
+ Serve as the primary Customer Service Advocate, resolving escalated issues between customers and Beretta USA 
+ Design, develop, and maintain an efficient service structure that supports national service objectives 
+ Establish and manage oversight of outsourced service centers to ensure consistent service quality and customer satisfaction 
+ Ensure all internal and external service personnel are properly trained, certified, and equipped to perform service functions effectively 
+ Develop, implement, and maintain standardized service procedures to ensure consistency, efficiency, and continuous improvement 
+ Collaborate cross-functionally to support product quality, customer satisfaction, and business goals 
+ 
+ WORKING CONDITIONS/PHYSICAL DEMANDS: 
+ 
+ Hands-on leadership role within a firearms repair and service center environment 
+ Travel up to 25% for shoots, demonstrations, training, and service center visits 
+ Manual dexterity required for detailed inspection and repair work 
+ Ability to lift and transport up to 50 pounds (firearms, equipment, and materials) 
+ Ability to bend, reach, and stand for extended periods 
+ Perform additional duties as assigned 
+ 
+ QUALIFICATIONS/ABILITIES: 
+ 
+ Strong leadership, people management, and decision-making skills 
+ Excellent customer service, interpersonal, negotiation, and conflict-resolution abilities 
+ Exceptional organizational skills with strong attention to detail 
+ In-depth knowledge of firearms service procedures and repair operations 
+ Proficiency with machinery, tools, and hand tools 
+ Strong communication and training skills, including the effective use of modern communication technologies 
+ Ability to act with integrity, professionalism, and confidentiality at all times 
+ 
+ EXPERIENCE/EDUCATION: 
+ 
+ High School Diploma required 
+ Master Gunsmith Certification preferred 
+ Minimum of 3 years of experience managing a customer service, repair, or technical service organization, or an equivalent combination of education and experience 
+ 
+ ELIGIBILITY REQUIREMENTS 
+ Employment is contingent upon eligibility to work in the United States 
+ &#xa0; 15% Bonus</description>
+								<pubDate>Tue, 29 Sep 2026 10:37:38 -0400</pubDate>
+							</item>
+						
+							<item>							
+								
+									<link>https://jobs.nssf.org/jobs/rss/22615678/category-buyer</link>
+								
+								<title>Category Buyer | Dirty Bird Industries, LLC</title>								
+								<guid isPermaLink="true">https://jobs.nssf.org/jobs/rss/22615678/category-buyer</guid>
+								<description>Bakersfield, California,  Job Title:  Category Buyer 
+ Salary Range:  $100,000 - $140,000 (based on experience) 
+ Location:  Remote (w/Headquarters based in Bakersfield, CA - Kern County) 
+ Schedule:  Monday-Friday 
+ Dirty Bird Industries LLC, DBA AR15discounts.com, is a firearms, ammunition, optics, and accessories retailer serving customers online and across the counter in our local store front. We are hiring a Category Buyer to own the purchasing for assigned product categories and report directly to our&#xa0;Director of E-Commerce.&#xa0; 
+ This is a seat with real ownership. You will decide what items we carry, what we pay for, and how much of the item sits on our shelves. You will&#xa0;help&#xa0;build the vendor relationships that determine whether we can get product when our customers want it &#8212; which, in this industry, customer satisfaction is the whole game. 
+ Responsibilities : 
+ 
+ Own purchase orders end to end for firearms, ammunition, optics, parts and accessories 
+ Negotiate pricing, terms, freight, and promotional support with distributors and manufacturers 
+ Build and maintain vendor relationships across the industry, including at trade shows 
+ Manage inventory levels against sales velocity and seasonality 
+ Work with our accounting team to track margin by category and flag what is and is not working 
+ Evaluate new products and lines, and make the case for the ones worth carrying 
+ Work alongside sales, marketing, and warehouse so buying decisions match what we can&#xa0;actually sell&#xa0;and ship 
+ Maintain accurate purchasing records and reporting 
+ 
+ &#xa0; 
+ Requirements : 
+ 
+ Demonstrated negotiation ability with vendors or suppliersin Firearms Industry 
+ Financial literacy &#8212; you are comfortable with margin, markup, landed cost, and turn 
+ Strong math skills and attention to numerical detail 
+ Clear written and verbal communication 
+ Organizational skills to manage many open POs, vendors, and deadlines at once 
+ Proficiency with Microsoft Office, particularly Excel 
+ Must be able to legally possess, purchase, and operate firearms under all local, state, and federal laws. 
+ Must not be a &quot;prohibited person&quot; as defined by the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) under 18 U.S.C. &#xa7; 922. 
+ 
+ &#xa0; 
+ Communication method(s) used: 
+ 
+ Email 
+ Phone 
+ 
+ &#xa0; 
+ Work Remotely : 
+ 
+ Yes 
+ 
+ Job Type : Full-time 
+ Benefits : 
+ 
+ 401(k) Retirement Plan w/company profit share 
+ Dental Insurance 
+ Medical Insurance 
+ Vision Insurance 
+ Personal Paid Time Off 
+ Sick Paid Time Off 
+ Employee Discounts 
+ 
+ Shift : 
+ 
+ Monday - Friday 
+ Day shift 
+ 
+ Education : 
+ 
+ Bachelor&#8217;s Degree in Business, Finance or Marketing (Preferred) 
+ 
+ Experience : 
+ 
+ 3 &#8211; 5 years of buying/purchasing experience in firearms industry (Required) 
+ Experience with inventory management or ERP systems 
+ Existing distributor and manufacturer relationships (Preferred) 
+ Proven negotiation ability with vendors or suppliers 
+ 
+ Work environmen t: 
+ 
+ Office (Remote) 
+ Minimum 3 years of firearms experience Salary will be based on experience.</description>
+								<pubDate>Mon, 28 Sep 2026 11:19:47 -0400</pubDate>
+							</item>
+						
+							<item>							
+								
+									<link>https://jobs.nssf.org/jobs/rss/22615707/shooting-range-resource-experience-required</link>
+								
+								<title>Shooting Range Resource - Experience Required | Confidential</title>								
+								<guid isPermaLink="true">https://jobs.nssf.org/jobs/rss/22615707/shooting-range-resource-experience-required</guid>
+								<description>Nationwide,  We are seeking an individual for a short term project that has extensive experience with shooting ranges.&#xa0; 
+ The project details are confidential. Available details about the role are as follows: 
+ 1) Fully remote project - can work from home and any hours of the day. 
+ 2) Approximately 40 hours of labor needed that can be spread over two weeks 
+ 3) Individual would be tasked with testing software functionality and providing feedback and suggested improvements. Requires a computer, access to the internet and extensive range experience.</description>
+								<pubDate>Mon, 28 Sep 2026 09:34:08 -0400</pubDate>
+							</item>
+						
+							<item>							
+								
+									<link>https://jobs.nssf.org/jobs/rss/22604167/ccw-safe-field-sales-state-manager</link>
+								
+								<title>CCW Safe Field Sales State Manager | CCW Safe</title>								
+								<guid isPermaLink="true">https://jobs.nssf.org/jobs/rss/22604167/ccw-safe-field-sales-state-manager</guid>
+								<description>Oklahoma City, Oklahoma,  Background CCW Safe is a leading provider of self-defense legal services, providing comprehensive coverage and support through a membership program. We have an outstanding reputation for quality, deep expertise, personal service, and ethics. Our commitment to members is rooted in real-world experience and a dedication to supporting responsible individuals through some of the most difficult and stressful circumstances they may ever face. As we continue to expand our membership and presence across the country, we are seeking a Field Sales State Manager to lead growth and market development throughout Texas or Florida. 
+ Position Description 
+ Job Overview: The Field Sales State Manager will own CCW Safe&#39;s sales growth strategy across Texas/Florida &#8212; from developing a statewide sales territory and building a network of representatives and independent field associates to establishing relationships with instructors, shooting ranges, retailers, and industry partners. This is a hands-on sales leadership role that combines strategic territory management, relationship development, team coaching, and direct sales engagement. The ideal candidate is a results-driven professional who can build trust within the firearms community, personal protection, and legal communities while representing CCW Safe with credibility, integrity, and professionalism. Candidate must be based in TX/FL and able to travel extensively throughout the state. 
+ Key Responsibilities: 1. Statewide Sales Leadership: Develop and execute a statewide sales strategy designed to achieve membership growth, revenue, and market expansion goals across TX/FL. 2. Team Development: Recruit, train, coach, and manage outside sales representatives and independent field associates, establishing clear expectations, accountability, and performance standards. 
+ 3. Partnership Development: Build and maintain strong relationships with firearm instructors, shooting ranges, retailers, industry influencers, and other strategic partners to expand referral and membership opportunities. 4. Community &#38;amp; Event Engagement: Represent CCW Safe at trade shows, training sessions, industry events, and community activities to increase awareness, educate potential members, and strengthen relationships. 5. Performance Management: Track sales activity, KPIs, conversion metrics, and territory performance through CRM tools while maintaining accurate forecasting and accountability. 6. Market Development: Identify new market opportunities, evaluate regional trends, and develop targeted outreach strategies to increase CCW Safe&#38;#39;s presence and membership throughout TX/FL. 7. Brand Representation: Serve as a trusted ambassador for CCW Safe, clearly communicating our mission, values, and commitment to supporting responsible individuals who lawfully defend themselves. 8. Cross-Functional Partnership: Work closely with corporate marketing, operations, member services, and other internal teams to ensure field sales activities are aligned with broader company objectives. 9. Relationship-Based Sales: Develop long-term relationships and referral networks that create sustainable membership growth rather than relying solely on transactional sales activity. Skills needed for the Field Sales State Manager &#8226; 5+ years of experience in outside sales, business development, territory management, or a related field. &#8226; 2+ years of experience leading, coaching, or developing sales teams preferred. &#8226; Demonstrated success in relationship-based, referral-driven, or membership-focused sales environments. &#8226; Strong communication, presentation, negotiation, and leadership skills. &#8226; Knowledge of or genuine passion for the firearms, personal defense, or legal protection industries. &#8226; Experience using CRM platforms, such as Salesforce, to manage pipelines, track performance, and support data-driven decision-making. &#8226; Strong strategic territory management and business development skills. 
+ &#8226; Excellent public speaking and presentation abilities, with confidence representing the company at events and in community settings. &#8226; Highly self-motivated, organized, accountable, and comfortable working independently in a field-based role. &#8226; Strong relationship-building skills and the ability to establish credibility with business owners, instructors, industry professionals, and community partners. &#8226; Committed to ethical selling, professionalism, and representing CCW Safe&#38;#39;s mission and values. &#8226; Ability to travel extensively throughout TX/FL, up to 50%, including occasional weekends for events, trade shows, gun shows, and training sessions. &#8226; Valid drivers license and clean driving record. &#8226; Located in TX/FL.</description>
+								<pubDate>Wed, 23 Sep 2026 18:33:21 -0400</pubDate>
+							</item>
+						
+							<item>							
+								
+									<link>https://jobs.nssf.org/jobs/rss/22598699/international-sales-manager</link>
+								
+								<title>International Sales Manager  | GLOCK, Inc.</title>								
+								<guid isPermaLink="true">https://jobs.nssf.org/jobs/rss/22598699/international-sales-manager</guid>
+								<description>Smyrna, Georgia,  General Purpose: 
+ The International Sales Manager is responsible for coordinating and overseeing the commercial, operational, and compliance-related activities of the international markets supplied through GLOCK Inc. 
+ The role serves as the central point of coordination between customers, local distributors, sales agents, Operations, Logistics, Finance, Compliance, and Legal functions to ensure the efficient execution of the Order-to-Cash process and the smooth management of assigned international markets. 
+ &#xa0; 
+ In addition, the International Sales Manager is responsible for monitoring business performance, forecasting market demand, ensuring proper due diligence and compliance with corporate policies, FCPA, as well as export control regulation, applicable to export GLOCK products, and supporting the sustainable development of the assigned territories. 
+ &#xa0; 
+ Supervisory Responsibilities: 
+ Directly manages Exports department employees in accordance with the company&#8217;s policies and applicable laws. Responsibilities include recommendations of hiring and firing employees, training/coaching employees; planning, assigning, and directing workload of team, conducting employee performance reviews; rewarding and disciplining employees, addressing complaints, and resolving issues.&#xa0;&#xa0; 
+ &#xa0; 
+ Duties and Responsibilities&#xa0; (other duties may be assigned) : 
+ 
+ Perform appropriate due diligence to ensure operations are in compliance with internal policies, FCPA rules, Export Administration Regulations, Commerce Control Lot, U.S. Treasury Sanction List (OFAC). 
+ 
+ 
+ Coordinate and oversee the Order-to-Cash process for assigned international markets. 
+ Support and coordinate international Sales Agents and distribution partners. 
+ Conduct due diligence reviews of Sales Agents, customers, and business partners. 
+ Coordinate export permits, export documentation, and compliance requirements. 
+ Review Letters of Credit (LCs) and support financial risk monitoring. 
+ Consolidate sales forecasts and market planning activities. 
+ Prepare management reporting on market performance, forecasting, and business developments. 
+ Monitor business performance and identify opportunities and risks in assigned markets. 
+ Ensure alignment with GLOCK&#8217;s global sales strategy and corporate policies. 
+ 
+ &#xa0; 
+ Reporting Line &#38; Organizational Positioning 
+ The International Sales Manager reports directly to the CEO of GLOCK Inc. 
+ The position operates outside the local country sales organizations and serves as a central coordination, governance, and oversight function for the international markets supplied through GLOCK Inc. 
+ While supporting the commercial development of the assigned territories, the International Sales Manager aligns all activities with the global sales strategy of the GLOCK Group and supports its consistent implementation across the assigned markets. 
+ The role is not responsible for negotiating, managing, presenting to CEO for approval or reporting individual customer transactions, commercial negotiations, tender activities, pricing decisions, contract details, or deal-specific matters outside GLOCK Inc. 
+ &#xa0; 
+ Within GLOCK Inc., the International Sales Manager supports the execution of business activities across the assigned territories. Outside GLOCK Inc., any reporting provided to GLOCK GmbH or other corporate stakeholders shall be strictly limited to consolidated and aggregated business information, including: 
+ 
+ Market developments and trends 
+ Sales volume performance 
+ Forecasting and demand planning 
+ Business performance indicators 
+ Compliance and due diligence status 
+ Export control and operational topics 
+ Strategic business risks and opportunities 
+ 
+ &#xa0; 
+ The position shall not provide, disclose, escalate, or report customer-specific, transaction-specific, pricing-related, tender-related, contract-related, or deal-specific information outside GLOCK Inc. 
+ The International Sales Manager serves as a governance and transparency function for the assigned markets while ensuring compliance with internal reporting, confidentiality, and information governance requirements throughout the GLOCK Group. 
+ &#xa0; 
+ Forecasting, Planning &#38; Reporting 
+ 
+ Coordinate regular sales volume forecasting for all assigned markets. 
+ Consolidate demand forecasts and market projections received from distributors and Sales Agents. 
+ Monitor actual sales performance against forecast and budget expectations. 
+ Prepare monthly, quarterly, and annual business reviews for management. 
+ Provide regular consolidated reporting on sales volumes, market developments, distributor performance, and business opportunities. 
+ Support production planning and supply chain alignment through accurate forecasting. 
+ Provide consolidated management reporting to relevant stakeholders within the GLOCK Group while maintaining strict confidentiality of customer-specific and transaction-specific information. 
+ Ensure that all reporting outside GLOCK Inc. is limited to aggregated business performance, forecasting, compliance matters, operational developments, and market intelligence. 
+ 
+ &#xa0; 
+ Overall Accountability 
+ The International Sales Manager serves as the central coordination and oversight function for the international markets supplied through GLOCK Inc. The position is responsible for ensuring effective collaboration between commercial, operational, financial, and compliance functions while supporting the successful execution of the Order-to-Cash process. 
+ &#xa0; 
+ Through regular market reviews, consolidated business reporting, due diligence activities, export compliance oversight, and forecasting responsibilities, the International Sales Manager provides transparency, governance, and operational support for the assigned international territories and contributes to the achievement of GLOCK Inc.&#39;s commercial objectives. 
+ The position reports directly to the CEO of GLOCK Inc. and supports alignment with the global sales strategy of the GLOCK Group. Any reporting outside GLOCK Inc. shall be limited to consolidated, aggregated, and management-level information and explicitly excludes customer-specific, pricing-related, contract-related, tender-related, transaction-specific, or deal-specific content. This ensures clear separation between operational sales execution within the local organization and consolidated business reporting within the broader GLOCK Group. 
+ &#xa0; 
+ Qualifications/Job Requirements: 
+ To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below represent the knowledge, pre-skills, and/or abilities needed to perform this job. Reasonable accommodation may be made for qualified employees or applicants with disabilities. 
+ &#xa0; 
+ This position does require international travel, at least four times per year. 
+ &#xa0; &#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; 
+ Education and/or Experience: 
+ 
+ Bachelor&#8217;s degree in business, International Trade, Supply Chain, Finance, or related field. 
+ Several years of experience in export management, international business, trade compliance, or sales operations. 
+ Strong understanding of international trade of defense products and export processes. 
+ Experience with forecasting, reporting, and business analysis. 
+ Knowledge of export control, export compliance (FCPA, CCL, EAR, OFAC), Letters of Credit, and international payment structures is an advantage. 
+ Excellent organizational, analytical, and communication skills. 
+ Fluent in English. German, Spanish, and French are a plus. 
+ 
+ &#xa0; 
+ Licenses and Certifications: 
+ 
+ 
+ 
+ 
+ Valid Driver&#8217;s License&#xa0; 
+ 
+ 
+ 
+ 
+ &#xa0; 
+ Physical Demands: 
+ The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to qualified employees and applicants with disabilities to perform the essential functions. While performing the duties of this job, the employee may be required to lift and carry boxes up to 40 pounds. The employee is regularly required to sit for long periods of time and may also be required to stand for long periods of time. The employee is regularly required to use fingers and hands to use computer keyboard.&#xa0; 
+ &#xa0; 
+ Work Environment: 
+ The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. GLOCK Inc. is a manufacturing environment. While the setting is a typical office environment, there may be noise levels or odors. 
+ &#xa0; 
+ &#xa0; 
+ &#xa0; 
+ &#xa0; 
+ 
+ 
+ 
+ 
+ &#xa0; 
+ GLOCK, Inc. is an equal opportunity employer. Employment decisions at GLOCK, Inc. will be based on merit, qualifications, and abilities. GLOCK, Inc. prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, creed, color, religion, national origin, sex (including pregnancy, childbirth and parenting status), age, disability status, marital status, sexual orientation, gender identity or expression, citizenship status, genetic information, protected veteran status or any other characteristic protected by law. In addition to a commitment to provide equal employment opportunities to all qualified individuals, GLOCK, Inc. has established an affirmative action program to promote opportunities for individuals in certain protected classes throughout GLOCK, Inc.&#xa0; 
+ &#xa0; 
+ GLOCK, Inc. is committed to providing reasonable accommodations for applicants and employees to participate in the job application or interview process. 
+ To request a reasonable accommodation to apply or interview for an open position, please send an email to our HR Team at&#xa0; careers@glock.us &#xa0;with the following information: 
+ 
+ Your full name&#xa0; 
+ Your contact information 
+ A description of your accommodation request</description>
+								<pubDate>Mon, 21 Sep 2026 15:28:36 -0400</pubDate>
+							</item>
+						
+							<item>							
+								
+									<link>https://jobs.nssf.org/jobs/rss/22590934/brand-experience-manager</link>
+								
+								<title>Brand Experience Manager | Benelli USA Corporation</title>								
+								<guid isPermaLink="true">https://jobs.nssf.org/jobs/rss/22590934/brand-experience-manager</guid>
+								<description>Accokeek, Maryland,  General Purpose: 
+ The Brand Experience Manager leads the planning, coordination, and execution of Benelli USA&#8217;s trade shows, consumer events, dealer activations, and branded environments. This role creates a proactive and strategically aligned event system that ensures Benelli, Franchi, Stoeger, and associated brands are represented consistently and professionally. Through strong planning, vendor management, budget oversight, and cross-functional communication, every event is designed to strengthen brand visibility, product storytelling, consumer acquisition, dealer engagement, and business growth. 
+ The role also oversees the physical brand experience across dealer and retail touchpoints, including POP materials, signage, fixtures, displays, sales-support materials, and long-term asset planning. Working closely with Sales, Product, Digital, and Creative teams, the Brand Experience Manager translates commercial priorities and brand strategy into timely, effective execution. This individual will also develop and manage a reliable network of brand advocates, ambassadors, product users, and field-support partners who can supplement internal teams at trade shows, retail events, dealer activations, and other consumer-facing experiences. 
+ You&#8217;ll get to: 
+ 
+ Lead the planning, coordination, and execution of Benelli USA&#8217;s major trade shows, consumer events, dealer events, and branded activations 
+ Build and manage an annual event and brand experience calendar that provides planning visibility, internal alignment, and execution timing 
+ Develop strategic event plans that connect brand objectives, product priorities, dealer engagement, consumer acquisition, and measurable business outcomes 
+ Serve as the primary Marketing owner for trade show logistics, show services, booth planning, event materials, deadlines, vendor coordination, and on-site execution 
+ Coordinate retail and dealer-facing brand experience initiatives, including POP materials, signage systems, fixtures, displays, and branded sales-support materials 
+ Partner with Sales to understand dealer needs, commercial priorities, account opportunities, and field feedback, then translate those needs into organized Marketing execution 
+ Work cross-functionally with Product, Creative, Digital, Sales, and external partners to ensure physical marketing initiatives support launch plans, campaign direction, and brand standards 
+ Manage vendor relationships, production timelines, estimates, deliverables, and quality control across events, displays, signage, fixtures, and branded environments 
+ Improve the organization, tracking, storage, reuse, and long-term planning of physical marketing assets across Benelli USA brands 
+ Support budget planning, forecasting, invoice tracking, reconciliation, and cost control for trade shows, events, retail displays, and physical marketing projects 
+ Create repeatable planning processes, timelines, templates, and checklists that reduce last-minute requests and improve accountability across physical marketing initiatives 
+ Ensure Benelli USA brands are presented consistently, professionally, and in accordance with style guidelines across shows, dealer environments, retail settings, and consumer-facing touchpoints 
+ Bring a modernization mindset to event and retail execution by improving planning cadence, communication, asset management, vendor efficiency, and post-event follow-through 
+ Help identify, organize, and activate a community of brand advocates, ambassadors, product users, and field-support partners who can strengthen consumer interaction and provide supplemental support for retail events, trade shows, dealer activations, and branded experiences 
+ 
+ &#xa0; 
+ Performance Measurements: 
+ 
+ Successful execution of trade shows, consumer events, dealer events, and branded activations that support brand visibility, product storytelling, consumer engagement, and dealer engagement 
+ Development and management of an annual brand experience calendar that aligns events, product launches, dealer needs, retail initiatives, and cross-functional priorities 
+ Effective support of dealer and retail marketing initiatives through coordinated POP materials, signage systems, fixtures, displays, and branded sales-support assets 
+ Growth in consumer engagement and qualified consumer data acquisition through event activations, sweepstakes, QR-driven experiences, product interactions, and other direct marketing capture opportunities 
+ Responsible management of vendors, budgets, production timelines, physical assets, and project details to ensure consistent brand presentation and scalable execution across Benelli, Franchi, and Stoeger 
+ 
+ &#xa0; 
+ Supervisory Responsibilities: 
+ 
+ External Vendors &#38; Agencies 
+ 
+ &#xa0; 
+ Who you are: 
+ You&#8217;re a builder, an organizer, and a driver of momentum. You see a trade show, dealer event, retail display, or branded environment as more than a checklist. You see it as an opportunity to make the brand feel bigger, sharper, more premium, and more memorable. You are energized by turning loose ideas into organized plans, moving projects forward, solving problems, and creating experiences that connect with consumers, support dealers, and strengthen the business. You bring an entrepreneurial mindset, a high sense of ownership, and the confidence to work across teams, vendors, timelines, and budgets without waiting to be pushed. You are proactive, resourceful, detail-minded, and motivated by the chance to build something better than what exists today. 
+ &#xa0; 
+ You also have: 
+ 
+ Strong project management skills with the ability to organize timelines, vendors, budgets, deliverables, and details across multiple initiatives at once 
+ A proactive, high-ownership mindset with the ability to anticipate needs, identify gaps, solve problems, and move work forward without constant direction 
+ Strong communication and relationship-building skills with the confidence to work across Marketing, Sales, Product, Digital, dealers, vendors, ambassadors, brand advocates, and event-support partners 
+ The ability to balance creative thinking with operational discipline, turning ideas into organized plans, clear timelines, and completed work 
+ Strong attention to detail and pride in how brands are presented across events, retail environments, signage, displays, fixtures, and consumer-facing materials 
+ 
+ Qualifications: 
+ 
+ Bachelor&#8217;s degree in Marketing, Communications, Business, Event Management, or a related field 
+ 5+ years of experience in event marketing, trade show management, experiential marketing, retail marketing, brand activation, or a related marketing role 
+ Proven ability to manage complex projects involving timelines, vendors, budgets, production details, and cross-functional stakeholders 
+ Experience supporting physical brand environments, such as trade show booths, retail displays, POP materials, signage, fixtures, dealer events, or consumer activations 
+ Certified Trade Show Marketer (CTSM) certification is preferred 
+ Familiarity with firearms, hunting, shooting sports, outdoor products, or dealer-driven industries is preferred 
+ 
+ &#xa0; 
+ Other General Job Requirements: 
+ 
+ Regular and satisfactory attendance is required 
+ Ability to travel and work flexible hours, including occasional weekends, is required 
+ 
+ &#xa0; 
+ Physical Demands and Work Environment: 
+ Benelli USA is committed to working with employees to reasonably accommodate the physical aspects of the position. The following physical considerations are typical for this role: 
+ 
+ Frequently required to stand and walk 
+ Frequently required to sit 
+ Occasionally required to climb, balance, bend, stoop, kneel, or crawl 
+ Continually required to talk or hear 
+ Noise level in the work environment is usually moderate 
+ Occasionally required to lift more than 50 pounds 
+ Specific vision abilities required include close vision, distance vision, color vision, peripheral vision, depth perception, and the ability to adjust focus</description>
+								<pubDate>Fri, 18 Sep 2026 14:46:55 -0400</pubDate>
+							</item>
+						
+							<item>							
+								
+									<link>https://jobs.nssf.org/jobs/rss/22588223/research-analyst</link>
+								
+								<title>Research Analyst | National Shooting Sports Foundation (NSSF)</title>								
+								<guid isPermaLink="true">https://jobs.nssf.org/jobs/rss/22588223/research-analyst</guid>
+								<description>Shelton, Connecticut,  The  National Shooting Sports Foundation (NSSF)  is the nonprofit trade association representing the firearm industry and supporting the interests of its members across the shooting sports and hunting community. NSSF is seeking a  Research Analyst  to support the organization&#8217;s growing research and information needs. 
+ This is an opportunity to work on a diverse range of research projects, data requests, surveys, publications, and industry resources while developing a deeper understanding of a unique and evolving industry. We&#8217;re looking for someone who is intellectually curious, analytical, detail-oriented, and motivated to produce work that others can rely on. 
+ What You&#8217;ll Do 
+ 
+ Support internal and external research projects, surveys, and data requests from concept through completion. 
+ Research, collect, organize, and analyze information from a variety of sources and platforms. 
+ Assist with the development of research reports, publications, fact sheets, reference guides, and other resources. 
+ Respond to member and non-member research and data requests with accuracy and attention to detail. 
+ Develop and maintain research resources, tracking tools, and standard operating procedures. 
+ Build and maintain knowledge of relevant industry data, research sources, databases, and information platforms. 
+ Use research and data platforms, mapping applications, industry databases, and other technology to gather and organize information. 
+ Work with internal teams and external partners to coordinate research-related projects and information. 
+ Support internal survey initiatives and assist with the collection and organization of survey results. 
+ Provide backup support for reception and other administrative needs as part of the Research team. 
+ 
+ Bachelor&#8217;s degree in research, data analytics, statistics, or mathematics preferred; equivalent combination of education and relevant experience may be considered. 
+ 3+ years of experience in research, data analysis, business intelligence, market research, or a related field. 
+ Strong research, analytical, organizational, and problem-solving skills. 
+ Advanced Proficiency with Microsoft Office products. 
+ Ability to gather information from multiple sources, evaluate its relevance and accuracy, and organize it into useful formats. 
+ Strong attention to detail and a high degree of accuracy. 
+ Excellent written and verbal communication skills. 
+ Ability to manage multiple projects, priorities, and deadlines effectively. 
+ Ability to work independently, exercise sound judgment, and follow established processes. 
+ Ability to maintain confidentiality and handle sensitive information appropriately. 
+ 
+ NSSF Is an Equal Opportunity Employer.</description>
+								<pubDate>Thu, 17 Sep 2026 13:17:20 -0400</pubDate>
+							</item>
+						
+							<item>							
+								
+									<link>https://jobs.nssf.org/jobs/rss/22579732/senior-project-engineer-in-co-or-oh</link>
+								
+								<title>Senior Project Engineer in CO or OH | Burris Company Inc</title>								
+								<guid isPermaLink="true">https://jobs.nssf.org/jobs/rss/22579732/senior-project-engineer-in-co-or-oh</guid>
+								<description>Greeley, Colorado,  Burris Company, Inc., a Greeley, CO based design and distributor of premium sporting, law-enforcement and military optics, is looking for a  Senior Project Engineer  who is passionate about innovative technology. The Senior Project Engineer organizes and controls project elements and schedules while effectively communicating with internal teams and outside suppliers to complete projects that successfully meet company goals. The Senior Project Engineer will work directly with the Product Development, Sales, Marketing, and Operations teams and represent Burris Company at domestic and international supplier locations. 
+ This position can be located at either Greeley, Colorado or Miamisburg, OH. 
+ Essential Duties: 
+ 
+ Develops project objectives by reviewing project proposals and plans; conferring with management. 
+ Creates project specifications and cost estimates by studying product design or concept, customer requirements, performance expectations and completing technical studies and surveys. 
+ Creates project schedules by studying project plan and specifications, calculating time requirements and sequencing project elements to meet company goals. 
+ Determines and assigns project responsibilities by identifying project phases and requirements. 
+ Controls project plan by reviewing design, specifications, plan and schedule changes; recommending actions. 
+ Maintains project schedule by communicating with domestic and international suppliers, monitoring project progress, coordinating activities and resolving problems. 
+ Controls project costs by approving expenditures, reviewing supplier quotations and negotiating supplier contracts. 
+ Confirms product conformance to established specifications by designing test procedures and pass/fail criteria and conducting testing. 
+ Plans and conducts online and in-person domestic and international supplier meetings to support current production and product development project plans. 
+ Develops and nurtures relationships with manufacturing partners and responds to various technical requests or issues from suppliers to audit and optimize vendor performance. 
+ Trains Burris and supplier QC and customer service personnel on new product features and technology. 
+ Identifies suitable technologies for current/future projects. 
+ Identifies and develops IP in support of the company&#8217;s business goals. 
+ Maintains product and company reputation by complying with federal and state regulations. 
+ Maintains safe and clean working environment by enforcing procedures, rules, and regulations. 
+ Other duties as assigned, requested, or required. 
+ 
+ Education &#38; experience requirements: 
+ Bachelor&#8217;s Degree in Engineering discipline; Minimum 7 years Project Management experience; Manufacturing experience preferred 
+ &#xa0; Knowledge, skills and abilities: 
+ 
+ Effective written and verbal communication skills, including common technical language. 
+ Effective time management, organization, and multi-tasking skills. 
+ Competency with common Microsoft Office applications including MS project, Power point, Word, &#38; Excel. 
+ Familiarity designing with SolidWorks and AutoCAD applications; proficiency in these applications preferred. 
+ Working knowledge of modern manufacturing techniques and processes and be able to use all common measuring tools. 
+ Development of design, performance and process specifications. 
+ Management of overseas suppliers for both product development and production activities. 
+ Development of test and measurement solutions 
+ Systems Engineering background/capability preferred 
+ Experience with the entire product development cycle and demonstrated experience defining, scheduling and managing projects from concept to mass production. 
+ DFM, DOE, DFMEA&#8217;s, PFMEA&#8217;s, SPC, process capability, process flow, and other design and quality management tools preferred. 
+ 
+ MUST SUCCESSFULLY PASS A BACKGROUND CHECK AND DRUG SCREEN.</description>
+								<pubDate>Mon, 14 Sep 2026 12:10:14 -0400</pubDate>
+							</item>
+						
+							<item>							
+								
+									<link>https://jobs.nssf.org/jobs/rss/22561592/pawnbroker-firearms-specialist</link>
+								
+								<title>Pawnbroker &#8211; Firearms Specialist | Gold Rush Pawn Company</title>								
+								<guid isPermaLink="true">https://jobs.nssf.org/jobs/rss/22561592/pawnbroker-firearms-specialist</guid>
+								<description>Kalispell, Montana,  Gold Rush Pawn Company is seeking a knowledgeable and motivated Pawnbroker &#8211; Firearms Specialist to join our team in Kalispell, Montana. 
+ This is a customer-facing position that combines traditional pawnbroking and retail responsibilities with a strong emphasis on firearms. The ideal candidate will have a strong working knowledge of firearms and the ability to accurately identify, evaluate, and price handguns, rifles, shotguns, suppressors, optics, and related accessories. 
+ The Firearms Specialist will play an important role in supporting and growing our firearms department while maintaining a high standard of customer service, safety, accuracy, and regulatory compliance. 
+ Firearms Responsibilities 
+ &#8226; Accurately identify, evaluate, and price firearms, suppressors (NFA items), optics, and related accessories &#8226; Maintain a strong understanding of current firearm products, market values, and industry trends &#8226; Inspect firearms for condition, functionality, configuration, and authenticity &#8226; Assist customers with firearm selection, product information, and safe handling &#8226; Complete and review required firearm transaction documentation, including ATF Form 4473 &#8226; Maintain accurate firearm acquisition, disposition, and inventory records &#8226; Follow all applicable federal, state, and local firearm laws and company compliance procedures &#8226; Safely handle, store, secure, and display firearms &#8226; Perform basic firearm cleaning and minor maintenance within the scope of training &#8226; Serve as a knowledgeable firearm resource for customers and other team members &#8226; Stay current on firearm products, industry developments, and regulatory changes 
+ Pawnbroker &#38; Retail Responsibilities 
+ &#8226; Provide knowledgeable, professional, and friendly customer service &#8226; Evaluate merchandise offered for pawn or outright sale, including firearms, jewelry, tools, electronics, sporting goods, musical instruments, and other valuables &#8226; Determine appropriate loan and purchase values based on condition, market demand, resale value, and other relevant factors &#8226; Negotiate loan and purchase amounts and clearly explain transaction terms &#8226; Buy and sell merchandise while maintaining appropriate margins &#8226; Accurately complete pawn, purchase, and sales transactions &#8226; Process cash and other payment transactions and maintain an accurate till &#8226; Price, merchandise, and display inventory for resale &#8226; Maintain accurate transaction and inventory records &#8226; Develop product knowledge across multiple merchandise categories &#8226; Help maintain a clean, organized, professional, and secure retail environment &#8226; Build positive customer relationships that encourage repeat business &#8226; Assist with promotional and merchandising activities as needed 
+ This is an in-person position in Kalispell, Montana. Applicants must be available to work a retail schedule, including weekends and some evenings as needed. Required Qualifications 
+ &#8226; High school diploma or equivalent &#8226; Strong working knowledge of firearms, including handguns, rifles, and shotguns &#8226; Familiarity with firearm optics, accessories, and related products &#8226; Ability to identify and evaluate firearms based on manufacturer, model, configuration, condition, and current market value &#8226; Strong customer service and communication skills &#8226; Good negotiation and decision-making abilities &#8226; Strong attention to detail and basic math skills &#8226; Ability to accurately handle cash and maintain transaction records &#8226; Ability to work effectively in a fast-paced environment and manage multiple priorities &#8226; Ability to safely handle firearms &#8226; Ability to meet all legal and company requirements associated with working around and handling firearms &#8226; Ability to stand for extended periods and lift up to 30 pounds &#8226; Availability to work weekends and evenings as needed 
+ Preferred Qualifications 
+ &#8226; Previous experience in firearm retail, pawnbroking, sporting goods, or a related industry &#8226; Professional experience buying, selling, or evaluating firearms &#8226; Familiarity with ATF regulations and FFL compliance procedures &#8226; Experience completing or reviewing ATF Form 4473 &#8226; Familiarity with NFA-regulated firearms and suppressors &#8226; Knowledge of firearm market values and industry pricing resources &#8226; Knowledge of optics, ammunition, firearm accessories, and related sporting goods Starting pay is $18.00&#8211;$24.00 per hour, depending on experience and qualifications, plus commission and performance-based bonus opportunities.</description>
+								<pubDate>Mon, 07 Sep 2026 11:19:25 -0400</pubDate>
+							</item>
+						
+							<item>							
+								
+									<link>https://jobs.nssf.org/jobs/rss/22555949/purchasing-specialist</link>
+								
+								<title>Purchasing Specialist | IWI US INC</title>								
+								<guid isPermaLink="true">https://jobs.nssf.org/jobs/rss/22555949/purchasing-specialist</guid>
+								<description>Andersonville, Tennessee,  Job Overview 
+ IWI US Inc. is seeking a driven and detail-oriented Supply Specialist to join our team. In this role, you will collaborate with other departments and leadership to identify and develop needs and requirements for equipment, materials, products and acceptable substitutions. The Purchasing Specialist will be responsible for preparing, reviewing, negotiating and administering contracts and purchase orders. 
+ Responsibilities: 
+ 
+ Reviewing cost proposals and pricing information 
+ Reading technical documents and drawing to aid in the procurement processing 
+ Partner with other team members to maintain inventory for production 
+ Compare bids from other vendors and determine or assist with determination of whom contracts will be awarded 
+ Collaborate with Engineers to develop new products in relation to supply availability, cost and quality 
+ Keep bill of material costs current 
+ Develop and maintain relationships with wholesalers and suppliers 
+ Negotiate contracts with wholesalers and suppliers 
+ Prepare and administer contracts and purchase orders with specific vendors 
+ Prepare and process purchase orders and requisitions for materials, supplies and equipment 
+ Work with the Quality department to ensure timely processing of vendor issues and resolutions 
+ Manage status of vendor returns, credits and replacements, in conjunction with Finance department 
+ Maintain vendor files and records 
+ Review open purchase orders with vendors to ensure delivery is on time, of quality and accurate 
+ Maintain information regarding vendors&#8217; performance and quality of products 
+ Resolve grievances with vendors, contractors and suppliers 
+ Attend trade shows, product exhibitions and conferences to maintain current understanding of new products and trends 
+ Copy, file and retrieve materials for the purchasing department as needed 
+ Follow all company policies, procedures, standard operating procedures and safety protocols 
+ Perform other related duties as assigned 
+ 
+ Work Skills: 
+ 
+ Excellent organization skills and attention to detail 
+ Ability to use reason to solve problems as they arise 
+ Maintain a Positive attitude 
+ Extensive knowledge of contract principles and procedures 
+ Excellent written and communication skills 
+ Proficient in Microsoft Office Suite or similar software 
+ Proficient with Priority ERP 
+ Has a basic understanding of technical print data and manufacturing processes 
+ Educational and Experience Requirements: 
+ 
+ Bachelor&#39;s degree in finance or High school diploma or equivalent with 5 years&#39; experience in logistics, supply chain analysis, import/export compliance or purchasing experience. 
+ Supply Chain experience 
+ Industrial Engineering, or related field with 2 years&#39; experience in logistics, supply chain analysis, import/export compliance or purchasing experience.</description>
+								<pubDate>Fri, 04 Sep 2026 15:48:25 -0400</pubDate>
+							</item>
+						
+							<item>							
+								
+									<link>https://jobs.nssf.org/jobs/rss/22555945/supply-chain-production-planner</link>
+								
+								<title>Supply Chain &#38; Production Planner | IWI US INC</title>								
+								<guid isPermaLink="true">https://jobs.nssf.org/jobs/rss/22555945/supply-chain-production-planner</guid>
+								<description>Andersonville, Tennessee,  Job Overview IWI US Inc. is seeking a driven and detail-oriented Supply Chain &#38; Production Planning professional to join our manufacturing team. In this role, you will be the operational backbone connecting procurement, production, inventory, and customer delivery &#8212; ensuring that the right materials are in the right place at the right time. 
+ If you thrive in a fast-paced environment, enjoy solving complex logistical puzzles, and take pride in keeping production lines running smoothly, we want to hear from you. 
+ &#xa0; 
+ Responsibilities: 
+ 
+ Maintain a thorough understanding of all products manufactured by the plant and production processes utilized. 
+ Plan and manage production schedules using our MRP/ERP system, analyzing recommendations and translating them into actionable procurement and manufacturing plans. 
+ Build and maintain Bills of Materials (BOMs) and ensure system data accuracy. 
+ Issue purchase orders to suppliers and actively expedite materials to meet production deadlines. 
+ Collaborate cross-functionally with production, sales, and customer service to manage order fulfillment and meet delivery commitments. 
+ Identify workflow bottlenecks and implement practical solutions to improve efficiency. 
+ Works with suppliers to ensure they are prepared to meet the short, medium, and long term requirements of the plant. 
+ Educational and Experience Requirements: 
+ 
+ Bachelor&#39;s degree preferred. 
+ Proven experience with ERP/MRP systems (experience with the Priority system is a strong advantage). 
+ Solid understanding of supply chain operations in a manufacturing environment. 
+ Experience building and managing BOMs and production plans. 
+ Strong analytical skills &#8212; you are comfortable reading data, spotting trends, and acting on insights. 
+ Ability to manage multiple priorities and adapt quickly in a dynamic environment. 
+ Experience working with international suppliers and global logistics. 
+ Excellent communication skills and a collaborative, solution-oriented mindset. 
+ Statistical and spreadsheet analytical skills. Proficiency with Excel and Access. 
+ Knowledge of manufacturing, distribution, and customer service 
+ Strong interpersonal and communication skills</description>
+								<pubDate>Fri, 04 Sep 2026 15:34:44 -0400</pubDate>
+							</item>
+						
+					</channel>
+				</rss>
