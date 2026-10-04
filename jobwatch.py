@@ -11,6 +11,9 @@ the company's job board. Supported boards are detected from the URL:
   Ashby          https://jobs.ashbyhq.com/<company>
   Workday        https://<tenant>.wd5.myworkdayjobs.com/<site>
   SmartRecruiters https://jobs.smartrecruiters.com/<company>
+  Paylocity      https://recruiting.paylocity.com/Recruiting/Jobs/All/<id>
+  ADP            the Workforce Now career center link (has cid= in it)
+  GovernmentJobs a governmentjobs.com search link (sort by date)
   RSS / Atom     any feed URL (set "type": "rss" if it isn't auto-detected)
 
 Only the Python 3 standard library is used, so there is nothing to install.
@@ -26,7 +29,7 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import parse_qs, urlencode, urlparse
 from urllib.request import Request, urlopen
 
 HERE = Path(__file__).resolve().parent
@@ -34,13 +37,13 @@ COMPANIES_FILE = HERE / "companies.json"
 SEEN_FILE = HERE / "seen.json"
 OUTPUT_FILE = HERE / "jobs.html"
 NEW_DAYS = 7  # jobs first seen within this many days get a "New" badge
-USER_AGENT = "Mozilla/5.0 (JobWatch personal job tracker)"
+USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"
 
 
 # ---------------------------------------------------------------- fetching
 
-def http(url, body=None):
-    headers = {"User-Agent": USER_AGENT, "Accept": "application/json, application/xml, */*"}
+def http(url, body=None, headers=None):
+    headers = {**(headers or {}), "User-Agent": USER_AGENT, "Accept": "application/json, application/xml, */*"}
     data = None
     if body is not None:
         data = json.dumps(body).encode()
@@ -154,6 +157,70 @@ def fetch_workday(c, url):
     return out
 
 
+def fetch_paylocity(c, url):
+    # The public job list page embeds its data as "pageData = {...};"
+    page = http(url).decode("utf-8", "replace")
+    m = re.search(r"pageData\s*=\s*(\{.*?\});\s*$", page, re.M)
+    if not m:
+        raise ValueError("job data not found on the Paylocity page")
+    out = []
+    for j in json.loads(m.group(1)).get("Jobs", []):
+        if j.get("IsInternal"):
+            continue
+        loc = j.get("JobLocation") or {}
+        where = ", ".join(x for x in (loc.get("City"), loc.get("State")) if x) or j.get("LocationName", "")
+        out.append(job(c, j.get("JobTitle"), f"https://recruiting.paylocity.com/Recruiting/Jobs/Details/{j.get('JobId')}",
+                       parse_date(j.get("PublishedDate")), where))
+    return out
+
+
+def fetch_adp(c, url):
+    # ADP Workforce Now career center: .../recruitment.html?cid=...&ccId=...
+    p = urlparse(url)
+    q = parse_qs(p.query)
+    cid, cc_id = q["cid"][0], q.get("ccId", ["19000101_000001"])[0]
+    base = f"{p.scheme}://{p.netloc}/mascsr/default"
+    api = (f"{base}/careercenter/public/events/staffing/v1/job-requisitions"
+           f"?cid={cid}&ccId={cc_id}&lang=en_US&locale=en_US")
+    out, skip = [], 0
+    while skip < 500:
+        data = get_json(f"{api}&$top=50&$skip={skip}")
+        reqs = data.get("jobRequisitions", [])
+        for j in reqs:
+            locs = [((l.get("nameCode") or {}).get("shortName") or "").strip() for l in j.get("requisitionLocations", [])]
+            out.append(job(c, j.get("requisitionTitle"),
+                           f"{base}/mdf/recruitment/recruitment.html?cid={cid}&ccId={cc_id}&jobId={j.get('itemID')}&lang=en_US",
+                           parse_date(j.get("postDate")), "; ".join(x for x in locs if x)))
+        skip += 50
+        if len(reqs) < 50 or skip >= (data.get("meta") or {}).get("totalNumber", 0):
+            break
+    return out
+
+
+def fetch_governmentjobs(c, url, pages=5):
+    # Search results come back 10 at a time as an HTML fragment. With sort=date the
+    # newest are first, so a few pages covers what's new. The list shows no posting date.
+    p = urlparse(url)
+    q = {k: v for k, v in parse_qs(p.query).items() if k != "page"}
+    out = []
+    for page in range(1, pages + 1):
+        qs = urlencode({**q, "page": [str(page)]}, doseq=True)
+        frag = http(f"https://www.governmentjobs.com/jobs?{qs}", headers={"X-Requested-With": "XMLHttpRequest"})
+        frag = frag.decode("utf-8", "replace")
+        items = frag.split('<li class="job-item"')[1:]
+        for item in items:
+            link = re.search(r'class="job-details-link" href="([^"]+)">([^<]+)</a>', item)
+            if not link:
+                continue
+            org = re.search(r'class="primaryInfo job-organization">([^<]*)<', item)
+            loc = re.search(r'class="job-location">([^<]*)<', item)
+            where = " · ".join(html.unescape(m.group(1).strip()) for m in (org, loc) if m and m.group(1).strip())
+            out.append(job(c, html.unescape(link.group(2)), "https://www.governmentjobs.com" + link.group(1), None, where))
+        if len(items) < 10:
+            break
+    return out
+
+
 def fetch_rss(c, url):
     root = ET.fromstring(http(url))
     out = []
@@ -188,10 +255,16 @@ def detect(entry):
         return fetch_workday, url
     if host == "jobs.smartrecruiters.com":
         return fetch_smartrecruiters, path[0]
+    if host == "recruiting.paylocity.com":
+        return fetch_paylocity, url
+    if "workforcenow" in host and host.endswith("adp.com"):
+        return fetch_adp, url
+    if host.endswith("governmentjobs.com"):
+        return fetch_governmentjobs, url
     if kind == "" and re.search(r"(rss|atom|feed|\.xml)", url, re.I):
         return fetch_rss, url
     raise ValueError("unrecognized job board; supported: Greenhouse, Lever, Ashby, Workday, "
-                     "SmartRecruiters, RSS (set \"type\": \"rss\" for feeds)")
+                     "SmartRecruiters, Paylocity, ADP, GovernmentJobs, RSS (set \"type\": \"rss\" for feeds)")
 
 
 def fetch_company(entry):
@@ -285,7 +358,8 @@ def build_page(jobs, company_names, errors, now):
             f'<td>{e(j["company"])}</td>'
             f'<td><span class="loc co">{e(j["company"])}</span>'
             f'<a href="{e(j["url"])}" target="_blank" rel="noopener">{e(j["title"])}</a>{badge}{loc}</td>'
-            f'<td class="date">{fmt_date(j["posted"])}</td></tr>')
+            + (f'<td class="date">{fmt_date(j["posted"])}</td></tr>' if j["posted"] else
+             f'<td class="date">{fmt_date(j["first_seen"])}<span class="loc">first seen</span></td></tr>'))
     err_html = ""
     if errors:
         err_html = '<p class="errors">Could not check: ' + "; ".join(

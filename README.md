@@ -6,7 +6,7 @@ Jobs that appeared in the last 7 days get a green **New** badge.
 
 ## Run it
 
-You need Python 3 (already on Mac and most Linux; on Windows install it from python.org).
+It runs on GitHub every morning and publishes the page with GitHub Pages. To run it yourself instead, you need Python 3 (already on Mac and most Linux; on Windows install it from python.org).
 
 ```
 python3 jobwatch.py
@@ -32,6 +32,9 @@ Supported job boards (detected from the URL):
 | Ashby | `https://jobs.ashbyhq.com/<company>` |
 | Workday | `https://<company>.wd5.myworkdayjobs.com/<SiteName>` |
 | SmartRecruiters | `https://jobs.smartrecruiters.com/<company>` |
+| Paylocity | `https://recruiting.paylocity.com/Recruiting/Jobs/All/<id>` |
+| ADP Workforce Now | the career center link (contains `cid=`) |
+| GovernmentJobs | a governmentjobs.com search link, sorted by date |
 | RSS / Atom feed | any feed URL; add `"type": "rss"` if it isn't detected |
 
 Tip: on a company's careers page, click into any job. The address bar usually shows which board it uses.

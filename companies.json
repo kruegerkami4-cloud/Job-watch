@@ -1,18 +1,7 @@
 [
-  {
-    "name": "Airbnb",
-    "url": "https://boards.greenhouse.io/airbnb"
-  },
-  {
-    "name": "Stripe",
-    "url": "https://boards.greenhouse.io/stripe"
-  },
-  {
-    "name": "Ramp",
-    "url": "https://jobs.ashbyhq.com/ramp"
-  },
-  {
-    "name": "NVIDIA",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
-  }
+  {"name": "Vortex", "url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/6dd17de9-20fb-4deb-bf57-c0a6116e169b"},
+  {"name": "CCI/Speer Ammo", "url": "https://thekineticgroup.wd1.myworkdayjobs.com/EXTERNAL_CCI_SPEER"},
+  {"name": "Government Jobs", "url": "https://www.governmentjobs.com/jobs?location=54016&distance=25&sort=date&isDescendingSort=True&isTransfer=False&isPromotional=False"},
+  {"name": "Shield Arms", "url": "https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0acf2e94-7b5c-4b6c-a4f0-cc1f73bdb99f&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter"},
+  {"name": "NSSF Jobs", "url": "https://jobs.nssf.org/jobs/?display=rss", "type": "rss"}
 ]
