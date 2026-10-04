@@ -392,8 +392,9 @@ def main():
         print(f"  {name}: {len(jobs)} jobs")
         for j in jobs:
             # On the very first run, back-date first_seen to the posting date so
-            # only genuinely recent postings show as new.
-            default = (j["posted"] or now.isoformat()) if first_run else now.isoformat()
+            # only genuinely recent postings show as new. Jobs with no date count as old.
+            undated = (now - timedelta(days=NEW_DAYS + 1)).isoformat()
+            default = (j["posted"] or undated) if first_run else now.isoformat()
             j["first_seen"] = seen.setdefault(j["url"], default)
             all_jobs.append(j)
 
